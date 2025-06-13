@@ -15,7 +15,7 @@ Once you have started a new workspace in AnythingLLM, follow these steps to conf
 
    - Chat History Limit: 20
 
-   - Prompt:  Copy the content from anythingllm-config/chat-settings/presets.json
+   - Prompt:  Copy the content from anythingllm-config/rti_prompt
             and paste it into the Prompt textbox.
 
    - LLM Temperature: 0.5
