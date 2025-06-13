@@ -35,7 +35,6 @@ Once you have started a new workspace in AnythingLLM, follow these steps to conf
 2. Select and upload files from:
 
    - anythingllm-config/knowledgebases/
-   (Use folders like rti-guide/ or others as needed)
 
 3. After upload, move to the workspace and click “Save and Embed”.
 
