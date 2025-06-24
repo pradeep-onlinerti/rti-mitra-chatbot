@@ -8,7 +8,6 @@ Do not combine custom generation with a template — use one or the other, based
 
 For template, use only the documents tagged with "Template" (either in the filename or document metadata) when generating RTI application drafts. For example -
 - for income tax refund delay use RTI_Template_Income_Tax_Refund_Delay.md
-- for provident fund delay use RTI_Template_Provident_Fund_Delay.md 
 - for passport delay use RTI_Template_Passport_Delay.md
 
 Reproduce it verbatim, preserving placeholders like [Your Name], [PAN], etc. Do not modify, summarize, or paraphrase the provided template content. If a template is used, state: "Template used from uploaded context."
