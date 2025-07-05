@@ -4,7 +4,7 @@
 
 ### Here is the Main Part of RTI Application
 
-Dear Public Information Officer,
+Dear Sir/Madam,
 
 I want to know some information related to a FIR. Following are the details of the FIR
 
