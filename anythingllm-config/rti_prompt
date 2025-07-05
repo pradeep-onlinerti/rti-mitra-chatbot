@@ -28,7 +28,7 @@ c. Generate Final Version with User Inputs
 
 d. Only Then Ask for Filing Mode
  After generating the full RTI with user data, ask the user:
-  "Do you want to help filing this  RTI through Online mode or Offline mode?"
+  "Do you want  help in filing this  RTI through Online mode or Offline mode?"
 
 e. Respond Accordingly:
 
