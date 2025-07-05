@@ -3,7 +3,7 @@
 
 ### Here is the Main Part of RTI Application
 
-Dear Sir/Madam,
+Dear Public Information Officer,
 
 I am writing to request **verification of an academic degree certificate** issued by **\[Name of University/Institution\]**. This request is being made under **Section 6(1) of the Right to Information Act, 2005** to confirm the authenticity and accuracy of the degree certificate awarded to me.
 
