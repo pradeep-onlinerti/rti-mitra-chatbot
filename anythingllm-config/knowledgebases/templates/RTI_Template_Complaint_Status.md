@@ -3,7 +3,7 @@
 <!-- START Main Part of RTI Application -->
 ### Here is the Main Part of RTI Application
 
-Dear Public Information Officer,
+Dear Sir/Madam,
 
 I had submitted a complaint to **\[Name of Department/Authority\]** regarding **\[Brief Nature of Complaint\]** on **\[Date\]**. However, I have not received any communication or update regarding the status or action taken on my complaint.
 
