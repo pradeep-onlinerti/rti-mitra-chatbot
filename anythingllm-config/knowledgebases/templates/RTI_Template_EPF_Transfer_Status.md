@@ -3,7 +3,7 @@
 <!-- START Main Part of RTI Application -->
 ### Here is the Main Part of RTI Application
 
-Dear Public Information Officer,
+Dear Sir/Madam,
 
 I had initiated a request to transfer my Employees’ Provident Fund (EPF) balance from my previous employer’s account to my current employer’s account. However, the transfer has not been completed, and I have not received any clear update regarding the delay.
 
