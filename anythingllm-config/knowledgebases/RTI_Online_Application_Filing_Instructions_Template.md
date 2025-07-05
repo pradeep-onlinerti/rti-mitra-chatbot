@@ -1,107 +1,98 @@
-**For Income Tax Refund Draft**
+<!-- Online Mode Instructions -->
+<!-- START Apply RTI Online for Income Tax Refund  -->
 
-# How to Apply Your RTI Online
+### **How to Apply Your RTI Online**
 
-Please follow these steps:
+You can file this RTI online through the **Central Government RTI portal**:
 
-You can file this RTI online through the **Central Government RTI
-portal**: ![](media/image1.png){width="0.19444444444444445in"
-height="0.19444444444444445in"} [Click here to apply]{.underline}
-
-## Select Public Authority:
-
-- In the dropdown **"Select Ministry/Department/Apex body"**, choose:
-  "**Department of Revenue"**
-
-- In the next dropdown **"Select Public Authority"**, choose:
-
-## "Principal Chief Commissioner of Income Tax based on your Income Tax Ward/Circle"
-
-2.  **Enter Your Personal Details:**
-
-    - Fill in your **Name**, **Address**, **Contact Number**, and
-      **Email ID** in the relevant fields.
-
-## Paste the RTI Application Text:
-
-- In the field labeled **"Text for RTI Request application"**,
-
-> **copy and paste only the core RTI body**, starting from: "Dear Public
-> Information Officer,"
-
-- and ending with: "Thank you"
-
-- ![](media/image1.png){width="0.19444444444444445in"
-  height="0.19444444444444445in"} Do **not** include the "To,"
-  "Subject," or address lines --- those are not needed for online
-  filing.
-
-## Upload Supporting Document (Optional):
-
-- Please upload a scanned copy of your **ITR acknowledgment**
-
-## Pay the RTI Fee:
-
-## 
-
-- You will be asked to pay ₹10 as the RTI application fee. You can pay
-  it online via net banking or card.
-
-## Submit the Application:
-
-- Once submitted, you will receive an **RTI request registration
-  number**. Keep it for future reference.
-
-**For Passport Delay**
-
-# How to Apply Your RTI Online
+👉 [Click here to apply](https://rtionline.gov.in/guidelines.php?request)
 
 Please follow these steps:
 
-You can file this RTI online through the **Central Government RTI
-portal**: ![](media/image1.png){width="0.19444444444444445in"
-height="0.19444444444444445in"} [Click here to apply]{.underline}
+1. **Select Public Authority:**
+
+   * In the dropdown **“Select Ministry/Department/Apex body”**, choose:
+
+       “**Department of Revenue”**
+
+   * In the next dropdown **“Select Public Authority”**, choose:
+
+      “**Principal Chief Commissioner of Income Tax** based on your **Income Tax Ward/Circle”**
+
+2. **Enter Your Personal Details:**
+
+   * Fill in your **Name**, **Address**, **Contact Number**, and **Email ID** in the relevant fields.
+
+3. **Paste the RTI Application Text:**
+
+   * In the field labeled **“Text for RTI Request application”**,
+
+      Paste {{core_rti_content}}
+
+3. **Upload Supporting Document (Optional):**
+
+   * Please upload a scanned copy of your  **ITR acknowledgment**
+
+4. **Pay the RTI Fee:**
+
+   * You will be asked to pay ₹10 as the RTI application fee. You can pay it online via net banking or card.
+
+5. **Submit the Application:**
+
+   * Once submitted, you will receive an **RTI request registration number**. Keep it for future reference.
+
+<!-- End Apply RTI Online for Income Tax Refund  -->
 
 
-## Select Public Authority:
+<!-- START Apply RTI Online for Passport Delay  -->
 
-- In the dropdown **"Select Ministry/Department/Apex body"**, choose:
-  "**Ministry of External Affairs**"
+##  Passport Delay: RTI Online Filing instruction 
+### **How to File Your RTI Application Offline**
 
-- In the next dropdown **"Select Public Authority"**, choose: "**MEA -
-  Consular, Passport & Visa Division (CPV)**"
+Please follow these steps:
 
-## Enter Your Personal Details:
+You can file this RTI online through the **Central Government RTI portal**:
 
-- Fill in your **Name**, **Address**, **Contact Number**, and **Email
-  ID** in the relevant fields.
+👉 [Click here to apply](https://rtionline.gov.in/guidelines.php?request)
 
-## Paste the RTI Application Text:
+Please follow these steps:
 
-## 
+1. **Select Public Authority:**
 
-- In the field labeled **"Text for RTI Request application"**,
+   * In the dropdown **“Select Ministry/Department/Apex body”**, choose:
 
-> **copy and paste only the core RTI body**, starting from: "Dear Public
-> Information Officer,"
+      “**Ministry of External Affairs**”
 
-- and ending with: "Thank you"
+     
 
-- ![](media/image1.png){width="0.19444444444444445in"
-  height="0.19444444444444445in"} Do **not** include the "To,"
-  "Subject," or address lines --- those are not needed for online
-  filing.
+   * In the next dropdown **“Select Public Authority”**, choose:
 
-## Upload Supporting Document (Optional):
+      “**MEA \- Consular, Passport & Visa Division (CPV)**”
 
-- Please upload a scanned copy of your **Passport acknowledgment**
+     
 
-## Pay the RTI Fee:
+2. **Enter Your Personal Details:**
 
-- You will be asked to pay ₹10 as the RTI application fee. You can pay
-  it online via net banking or card.
+   * Fill in your **Name**, **Address**, **Contact Number**, and **Email ID** in the relevant fields.
 
-## Submit the Application:
+3. **Paste the RTI Application Text:**
 
-- Once submitted, you will receive an **RTI request registration
-  number**. Keep it for future reference.
+   * In the field labeled **“Text for RTI Request application”**,
+
+      Paste {{core_rti_content}}
+      
+   * 👉 Do **not** include the “To,” “Subject,” or address lines — those are not needed for online filing.
+
+3. **Upload Supporting Document (Optional):**
+
+   * Please upload a scanned copy of your  **Passport acknowledgment**
+
+4. **Pay the RTI Fee:**
+
+   * You will be asked to pay ₹10 as the RTI application fee. You can pay it online via net banking or card.
+
+5. **Submit the Application:**
+
+   * Once submitted, you will receive an **RTI request registration number**. Keep it for future reference.
+
+<!-- End Apply RTI Online for Passport Delay  -->

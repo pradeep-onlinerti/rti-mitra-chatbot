@@ -1,71 +1,50 @@
-### RTI Template for Income Tax Refund Delay
-To,
+# RTI Template: Income Tax Refund Delay
 
-The Public Information Of8icer (PIO)
+<!-- START Main Part of RTI Application -->
 
-Income Tax Department \[Relevant Of8ice Address\]
+### Here is the Main Part of RTI Application
 
-Subject: Request for Information regarding Income Tax Refund for PAN
-\[PAN Number\] for Financial Year \[Financial Year\]
+I had filed my Income Tax Return for the financial year \[Financial Year of Refund\] and was eligible for a refund. However, despite the stipulated processing time, I have not yet received my refund. I seek information regarding the status and reasons for the delay.
 
-Dear Public Information Of8icer,
+Following are the details of my Income Tax refund claim:
 
-I had 8iled my Income Tax Return for the 8inancial year \[mention year\]
-and was eligible for a refund. However, despite the stipulated
-processing time, I have not yet received my refund.
+**PAN number** : \[PAN Number of Applicant\]  
+**Financial Year** : \[Financial Year of Refund\]  
+**Refund Amount** :  \[Refund Amount\]  
+**Name of the District of IT Office** : \[District IT office\]
 
-Here are the details:
+As of date, I have not received the said refund order along with the detailed calculation of the refund and the interest payable thereon, and nor has it been credited to my Bank Account.
 
-- **PAN Number:** \[Your PAN\]
+In this connection, please provide me the following information under section 2(j) of the RTI Act 2005:
 
-- **Financial Year:** \[Year\]
+1. Details of the process and **timeline** for processing of **income tax refunds** as per the department policy.  
+2. Present **status** of my income tax refund and timeline for release of the **refund amount** to my designated bank account.  
+3. Details of any **observation** made or **clarification** sought by the department on my income tax refund claim.  
+4. Reasons for **delay** in the processing of my income tax refund.  
+5. Details of steps taken by the department to ensure **timely processing** of refunds.
 
-- **Ward/Circle No:** \[Your IT Circle\]
+<!-- END OF Main Part of RTI Application -->
 
-- **Refund Amount:** \[₹Amount\]
+### Here is the Full RTI Application
 
-Enclosed is a photocopy of my Income Tax Return (ITR) acknowledgment.
+To, 
+Public Information Officer, 
+Income Tax Department 
 
-Under Section 6 of the Right to Information Act, 2005, I request the
-following information regarding my Income Tax Refund:
+**Subject***:* Request for Status of Income Tax Refund
 
-1.  Details of the process and timeline for processing income tax
-    refunds as per the department policy.
+{{core_rti_content}}
 
-2.  Present status of my income tax refund and expected timeline for
-    release to my designated bank account.
+The prescribed RTI application fee of \[Rs 10\] has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].
 
-3.  Details of any observations or clari8ications sought by the
-    department regarding my refund claim.
+ **Declaration** I declare that I am a citizen of India.
 
-4.  Reasons for the delay in processing my refund.
+Thank you.
 
-5.  Steps taken by the department to ensure timely refund processing.
-    Thank you.
+Yours sincerely,
 
-Yours sincerely, \[Your Name\]
-
-\[Date\]
-
-Applicant's Details:
-
-- **Name:** \[Your Name\]
-
-- **Address:** \[Your Address\]
-
-- **Contact Number:** \[Your Phone Number\]
-
-- **Email ID (Optional):** \[Your Email\]
-
-## Important Notes:
-
-1.  Attach supporting documents like ITR acknowledgment (for tax refund).
-
-2.  Address the RTI to the correct Public Information Of8icer (PIO)
-    based on your jurisdiction.
-
-3.  Ensure the fee payment is as per the latest RTI rules (₹10 for most
-    central government RTIs).
-
-This document is structured per OnlineRTI's required format to ensure
-maximum accuracy and compliance.
+**\[Your Full Name\]**  
+\[Your Complete Postal Address\]  
+\[Your Mobile Number(optional)\]  
+\[Email ID (optional)\]  
+**Date:** \[DD/MM/YYYY\]

@@ -1,12 +1,8 @@
-### RTI Template for FIR Status
+# RTI Template: FIR Status
 
-To,
-The Public Information Officer,
-[Police Station Address]
+<!-- START Main Part of RTI Application -->
 
-
-Subject : The daily progress made in investigation  of FIR [ FIR Number ]
-
+### Here is the Main Part of RTI Application
 
 Dear Public Information Officer,
 
@@ -25,10 +21,24 @@ Please provide the following information under section 2(f) of the RTI Act based
 5) Copy of the Charge Sheet prepared/filed by the IO u/s 173 Criminal Procedure Code or
 193 Bharatiya Nagarik Suraksha Sanhita 2023, (BNSS) as applicable.
 6) Details of the concerned Court adjudicating the FIR case.
+
+<!-- END OF Main Part of RTI Application -->
+
+### Here is the Full RTI Application
+
+To,
+The Public Information Officer,
+[Police Station Address]
+
+
+Subject : The daily progress made in investigation  of FIR [ FIR Number ]
+
+{{core_rti_content}}
+
 The prescribed RTI application fee of [Rs 10/20] has been paid via [Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment].
 
-
 Declaration I declare that I am a citizen of India.
+
 Thank you.
 Yours sincerely,
 \[Your Full Name\]

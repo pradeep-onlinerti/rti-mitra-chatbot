@@ -1,12 +1,7 @@
-### RTI Template for Degree Verification
+# RTI Template : Degree Verification
+<!-- START Main Part of RTI Application -->
 
-**To,**
-
-The Public Information Officer (PIO)  
-[Name of the University/Institution]  
-[Full Address]
-
-**Subject:** Request for Verification of Degree Certificate under the Right to Information Act, 2005
+### Here is the Main Part of RTI Application
 
 Dear Sir/Madam,
 
@@ -37,6 +32,21 @@ The prescribed RTI application fee of \[Rs 10/20\] has been paid via \[Indian Po
  
 
 **Declaration** I declare that I am a citizen of India.
+
+<!-- END OF Main Part of RTI Application -->
+
+### Here is the Full RTI Application
+
+**To,**
+
+The Public Information Officer (PIO)  
+[Name of the University/Institution]  
+[Full Address]
+
+**Subject:** Request for Verification of Degree Certificate under the Right to Information Act, 2005
+
+{{core_rti_content}}
+
 
 Thank you.
 

@@ -1,46 +1,57 @@
-### RTI Template for Passport Delay
-To,
+# RTI Template : Passport Delay
 
-The Public Information Of8icer (PIO) \[Regional Passport Of8ice Name\]
-\[Of8ice Address\]
-
-Subject: Request for Information regarding Passport Delay for
-Application Number \[Application Number\]
-
+<!-- START Main Part of RTI Application -->
+### Here is the Main Part of RTI Application
 Dear Public Information Of8icer,
 
-I, \[Your Name\], had applied for a passport under Application Number
-\[A1234567\] at the \[Passport Of8ice Name\]. My application has been
-delayed beyond the normal processing time. Therefore, I seek the
-following information under the RTI Act, 2005:
+I had submitted my passport application. I have not yet received my passport, and there has been no clear communication from the department regarding the delay.
 
-1.  Details of the process and timeline for passport processing as per
-    department policy.
+Please find my details 
 
-2.  Present status of my passport application and expected timeline for
-    issuance.
+**Name of Applicant :** \[ Name of Passport Applicant \]  
+**Passport Application Number** : \[ Passport Application Number \]  
+**Name of Passport Office** : \[ Name of passport office \]
 
-3.  Reasons for the delay in processing my passport application.
+In the case of Thirumalalyandi vs Regional Passport Office, MEA, Chennai bearing no. CIC/SG/A/2012/001256/19286 passed by the Central Information Commission, it has been observed  at the reasons for delay in issuance of passport has to be provided under the RTI Act and any delay in replying to the RTI Application would attract a show cause notice and penalty against the concerned Public Information Officer.
 
-4.  Details of any observations or clari8ications sought by the passport
-    of8ice.
+Please provide the following information under section 2(f) of the RTI Act
 
-5.  Steps taken by the department to ensure timely passport issuance.
-    Thank you.
+1. The present **status** of my passport application.  
+2. Details of the process and **timeline** for processing of passport application.  
+3. Details of the grant and issuance of passport.  
+4. Timeline of initiation and completion of police verification.  
+5. Details of the **police station** under whose jurisdiction police verification will be conducted.  
+6. Details and **submission timeline** of police verification report.  
+7. Details and **dispatch timeline** of my passport.
+
+The prescribed RTI application fee of Rs 10 has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].
+
+ **Declaration** I declare that I am a citizen of India.
+
+<!-- END OF Main Part of RTI Application -->
+
+### Here is the Full RTI Application
+
+To, 
+
+Public Information Officer, 
+
+Passport Office,
+
+**Subject**: Request for Status of Income Tax Refund
+
+{{core_rti_content}}
+
+Thank you.
 
 Yours sincerely,
 
-\[Your Name\] \[Date\]
+**\[Your Full Name\]**  
+\[Your Complete Postal Address\]  
+\[Your Mobile Number\]  
+\[Email ID (optional)\]  
+**Date:** \[DD/MM/YYYY\]  
 
-Applicant's Details:
-
-- **Name:** \[Your Name\]
-
-- **Address:** \[Your Address\]
-
-- **Contact Number:** \[Your Phone Number\]
-
-- **Email ID (Optional):** \[Your Email\]
 
 ## Important Notes:
 
@@ -54,3 +65,6 @@ Applicant's Details:
 
 This document is structured per OnlineRTI's required format to ensure
 maximum accuracy and compliance.
+
+
+

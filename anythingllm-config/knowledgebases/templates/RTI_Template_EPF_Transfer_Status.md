@@ -1,11 +1,7 @@
-## **\#\#\# RTI Template for EPF Transfer Status**
+# RTI Template : EPF Transfer Status
 
-To,  
-The Public Information Officer,  
-[Name of EPFO Regional Office]
-[Full Address of the EPFO Office]
-
-Subject :  Request for information regarding EPF transfer status
+<!-- START Main Part of RTI Application -->
+### Here is the Main Part of RTI Application
 
 Dear Public Information Officer,
 
@@ -18,12 +14,12 @@ Here are the details:
 **Previous Employer Details** 
 
 - Name of previous employer  
-  - Establishment ID/code ( if known)
+- Establishment ID/code ( if known)
 
 **Present(Current) Employer Details** 
 
 - Name of current employer  
-  - Establishment ID/code ( if known)
+- Establishment ID/code ( if known)
 
 **Present EPF Account Number**:  \[ Present EPF Account Number \]  
 **Date of Transfer Request**:\[ Date of  EPF transfer request \]
@@ -43,6 +39,19 @@ In the light of the above mentioned background, please provide the following inf
 The prescribed RTI application fee of \[Rs 10/20\] has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].
 
 **Declaration** I declare that I am a citizen of India.
+
+<!-- END OF Main Part of RTI Application -->
+
+### Here is the Full RTI Application
+
+To,  
+The Public Information Officer,  
+[Name of EPFO Regional Office]
+[Full Address of the EPFO Office]
+
+Subject :  Request for information regarding EPF transfer status
+
+{{core_rti_content}}
 
 Thank you.
 
