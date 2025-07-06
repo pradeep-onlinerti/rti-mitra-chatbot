@@ -4,6 +4,7 @@
 ### Here is the Main Part of RTI Application
 
 Dear Sir/Madam,
+
 I want to know information on MLA funds related to my constituency. Following are the details of my constituency
 
 **Constituency** :\[ Constituency Name\]  
