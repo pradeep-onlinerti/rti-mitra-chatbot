@@ -3,7 +3,7 @@
 <!-- START Main Part of RTI Application -->
 ### Here is the Main Part of RTI Application
 
-Dear Public Information Officer,
+Dear Sir/Madam,
 
 I want to know information on MLA funds related to my constituency. Following are the details of my constituency
 
