@@ -1,13 +1,8 @@
-### RTI Template for EPF Withdrawal Status
+# RTI Template for EPF Withdrawal Status
 
-**To,**
+<!-- START Main Part of RTI Application -->
 
-The Public Information Officer (PIO)
-[Name of EPFO Regional Office]
-[Full Address of the EPFO Office]
-
-**Subject:** Request for information regarding delay in EPF withdrawal (Form 10C) under the RTI Act, 2005
-
+### Here is the Main Part of RTI Application
 Dear Sir/Madam,
 
 I had submitted a request for withdrawal of my Employees’ Provident Fund (EPF) amount through the EPFO portal. However, I have not yet received the credited amount or any official communication explaining the delay.
@@ -49,7 +44,20 @@ Under Section 6(1) of the Right to Information Act, 2005, I seek the following i
 
 The prescribed RTI application fee of \[Rs 10/20\] has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].
 
- **Declaration** I declare that I am a citizen of India.
+**Declaration** I declare that I am a citizen of India.
+
+<!-- END OF Main Part of RTI Application -->
+
+### Here is the Full RTI Application
+**To,**
+
+The Public Information Officer (PIO)
+[Name of EPFO Regional Office]
+[Full Address of the EPFO Office]
+
+**Subject:** Request for information regarding delay in EPF withdrawal (Form 10C) under the RTI Act, 2005
+
+{{core_rti_content}}
 
 Thank you.
 

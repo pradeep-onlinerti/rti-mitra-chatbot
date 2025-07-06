@@ -1,12 +1,7 @@
-### RTI Template for Pension Application Status
+# RTI Template for Pension Application Status
 
-**To,**
-
-The Public Information Officer (PIO)  
-[Name of Department or Office Handling Pension Scheme]  
-[Full Address]
-
-**Subject:** Request for Information regarding Pension Application Status under RTI Act, 2005
+<!-- START Main Part of RTI Application -->
+### Here is the Main Part of RTI Application
 
 Dear Sir/Madam,
 
@@ -41,6 +36,20 @@ The prescribed RTI application fee of \[Rs 10/20\] has been paid via \[Indian Po
  
 
 **Declaration** I declare that I am a citizen of India.
+
+<!-- END OF Main Part of RTI Application -->
+
+### Here is the Full RTI Application
+
+**To,**
+
+The Public Information Officer (PIO)  
+[Name of Department or Office Handling Pension Scheme]  
+[Full Address]
+
+**Subject:** Request for Information regarding Pension Application Status under RTI Act, 2005
+
+{{core_rti_content}}
 
 Thank you.
 

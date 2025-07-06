@@ -1,14 +1,11 @@
-### RTI Template for Monitoring MLA Local Area Development Scheme(MLALADS)
+# RTI Template for Monitoring MLA Local Area Development Scheme(MLALADS)
 
-To,  
-The Public Information Officer,  
-[Office Address]
+<!-- START Main Part of RTI Application-->
+### Here is the Main Part of RTI Application
 
-**Subject** : Request for Information under MLA Local Area Development Scheme (MLALADS) for \[Constituency name\]
+Dear Sir/Madam,
 
-Dear Public Information Officer,
-
-I want to know information on MLA funds related to my constituency.. Following are the details of my constituency
+I want to know information on MLA funds related to my constituency. Following are the details of my constituency
 
 **Constituency** :\[ Constituency Name\]  
 **State** : \[ State Name\]  
@@ -40,6 +37,18 @@ The prescribed RTI application fee of \[Rs 10/20\] has been paid via \[Indian Po
  
 
 **Declaration** I declare that I am a citizen of India.
+
+<!-- END OF Main Part of RTI Application -->
+
+### Here is the Full RTI Application
+
+To,  
+The Public Information Officer,  
+[Office Address]
+
+**Subject** : Request for Information under MLA Local Area Development Scheme (MLALADS) for \[Constituency name\]
+
+{{core_rti_content}}
 
 Thank you.
 

@@ -1,12 +1,7 @@
-**\#\#\# RTI Template for Complaint Status**
+# RTI Template : Complaint Status
 
-To,
-
-The Public Information Officer (PIO)  
-\[Name of Department/Authority\]  
-\[Full Address\]
-
-**Subject:** Request for information regarding status and action taken on complaint under the RTI Act, 2005
+<!-- START Main Part of RTI Application -->
+### Here is the Main Part of RTI Application
 
 Dear Sir/Madam,
 
@@ -40,6 +35,20 @@ Under Section 6(1) of the Right to Information Act, 2005, I request the followin
 The prescribed RTI application fee of \[Rs 10/20\] has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].
 
 **Declaration** I declare that I am a citizen of India.
+
+<!-- END OF Main Part of RTI Application -->
+
+### Here is the Full RTI Application
+
+To,
+
+The Public Information Officer (PIO)  
+\[Name of Department/Authority\]  
+\[Full Address\]
+
+**Subject:** Request for information regarding status and action taken on complaint under the RTI Act, 2005
+
+{{core_rti_content}}
 
 Thank you.
 
