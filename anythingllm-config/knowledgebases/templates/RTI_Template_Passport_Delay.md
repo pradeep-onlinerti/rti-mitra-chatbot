@@ -2,7 +2,7 @@
 
 <!-- START Main Part of RTI Application -->
 ### Here is the Main Part of RTI Application
-Dear Public Information Of8icer,
+Dear Sir/Madam,
 
 I had submitted my passport application. I have not yet received my passport, and there has been no clear communication from the department regarding the delay.
 
