@@ -42,10 +42,6 @@ Under Section 6(1) of the Right to Information Act, 2005, I seek the following i
 
 7. The name, designation, and contact details (email and phone number) of the officer designated for grievance redressal in cases where EPF withdrawal claims are not resolved within the stipulated timeframe.
 
-The prescribed RTI application fee of \[Rs 10/20\] has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].
-
-**Declaration** I declare that I am a citizen of India.
-
 <!-- END OF Main Part of RTI Application -->
 
 ### Here is the Full RTI Application
@@ -58,6 +54,10 @@ The Public Information Officer (PIO)
 **Subject:** Request for information regarding delay in EPF withdrawal (Form 10C) under the RTI Act, 2005
 
 {{core_rti_content}}
+
+The prescribed RTI application fee of \[Rs 10/20\] has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].
+
+**Declaration** I declare that I am a citizen of India.
 
 Thank you.
 

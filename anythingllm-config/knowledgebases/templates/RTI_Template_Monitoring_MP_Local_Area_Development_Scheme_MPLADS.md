@@ -33,11 +33,6 @@ Under Section 6(1) of the RTI Act, 2005, I seek the following information regard
 
 4. Total funds allotted for the MPLADS scheme for this constituency during the stated period.
 
-The prescribed RTI application fee of \[Rs 10/20\] has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].  
- 
-
-**Declaration** I declare that I am a citizen of India.
-
 <!-- END OF Main Part of RTI Application -->
 
 ### Here is the Full RTI Application
@@ -49,6 +44,10 @@ The Public Information Officer,
 **Subject** : Request for Information under MP Local Area Development Scheme (MPLADS) for \[Constituency name\]
 
 {{core_rti_content}}
+
+The prescribed RTI application fee of \[Rs 10/20\] has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].
+
+**Declaration** I declare that I am a citizen of India.
 
 Thank you.
 

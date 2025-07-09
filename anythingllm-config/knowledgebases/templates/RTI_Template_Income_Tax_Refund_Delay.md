@@ -4,6 +4,8 @@
 
 ### Here is the Main Part of RTI Application
 
+Dear Sir/Madam,
+
 I had filed my Income Tax Return for the financial year \[Financial Year of Refund\] and was eligible for a refund. However, despite the stipulated processing time, I have not yet received my refund. I seek information regarding the status and reasons for the delay.
 
 Following are the details of my Income Tax refund claim:

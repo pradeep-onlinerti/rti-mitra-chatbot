@@ -23,10 +23,6 @@ Under Section 6(1) of the Right to Information Act, 2005, I request the followin
 3. **Details of the record** maintained by your institution pertaining to the enclosed marksheet (e.g., register entry, file reference, or digital record).  
 4. **Date of declaration of the result** of the aforementioned examination.
 
-The prescribed RTI application fee of \[Rs 10/20\] has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].
-
-**Declaration** I declare that I am a citizen of India.
-
 <!-- END OF Main Part of RTI Application -->
 
 ### Here is the Full RTI Application
@@ -40,6 +36,10 @@ The Public Information Officer (PIO)
 **Subject:** Request for verification and certified information regarding academic marksheet under the RTI Act, 2005
 
 {{core_rti_content}}
+
+The prescribed RTI application fee of \[Rs 10/20\] has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].
+
+**Declaration** I declare that I am a citizen of India.
 
 Thank you.
 

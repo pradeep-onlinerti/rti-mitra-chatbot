@@ -36,10 +36,6 @@ In the light of the above mentioned background, please provide the following inf
 6\) Details of timeline as per rules for processing EPF transfer requests.  
 7\) Details of the timeline of my processing and grant of my EPF transfer request.
 
-The prescribed RTI application fee of \[Rs 10/20\] has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].
-
-**Declaration** I declare that I am a citizen of India.
-
 <!-- END OF Main Part of RTI Application -->
 
 ### Here is the Full RTI Application
@@ -52,6 +48,10 @@ The Public Information Officer,
 Subject :  Request for information regarding EPF transfer status
 
 {{core_rti_content}}
+
+The prescribed RTI application fee of \[Rs 10/20\] has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].
+
+**Declaration** I declare that I am a citizen of India.
 
 Thank you.
 
