@@ -28,11 +28,6 @@ Under Section 6(1) of the Right to Information Act, 2005, I request the followin
 
 I am enclosing a **self-attested copy of the degree certificate** for reference and verification.
 
-The prescribed RTI application fee of \[Rs 10/20\] has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].  
- 
-
-**Declaration** I declare that I am a citizen of India.
-
 <!-- END OF Main Part of RTI Application -->
 
 ### Here is the Full RTI Application
@@ -47,6 +42,9 @@ The Public Information Officer (PIO)
 
 {{core_rti_content}}
 
+The prescribed RTI application fee of \[Rs 10/20\] has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].
+
+**Declaration** I declare that I am a citizen of India.
 
 Thank you.
 

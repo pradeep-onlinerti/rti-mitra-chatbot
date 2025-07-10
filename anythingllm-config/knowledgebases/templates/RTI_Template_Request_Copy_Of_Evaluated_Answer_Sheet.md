@@ -28,10 +28,6 @@ Under Section 6(1) of the Right to Information Act, 2005, I request the followin
 
 I am willing to pay any additional fees prescribed under the RTI rules for document copies or inspection.
 
-The prescribed RTI application fee of \[Rs 10/20\] has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].  
- 
-
-**Declaration** I declare that I am a citizen of India.
 
 <!-- END OF Main Part of RTI Application -->
 
@@ -46,6 +42,10 @@ The Public Information Officer (PIO)
 **Subject:** Request for Certified Copy of Evaluated Answer Sheet under RTI Act, 2005
 
 {{core_rti_content}}
+
+The prescribed RTI application fee of \[Rs 10/20\] has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].
+
+**Declaration** I declare that I am a citizen of India.
 
 Thank you.
 

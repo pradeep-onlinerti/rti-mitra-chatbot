@@ -24,10 +24,6 @@ Please provide the following information under section 2(f) of the RTI Act
 6. Details and **submission timeline** of police verification report.  
 7. Details and **dispatch timeline** of my passport.
 
-The prescribed RTI application fee of Rs 10 has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].
-
- **Declaration** I declare that I am a citizen of India.
-
 <!-- END OF Main Part of RTI Application -->
 
 ### Here is the Full RTI Application
@@ -41,6 +37,10 @@ Passport Office,
 **Subject**: Request for Status of Income Tax Refund
 
 {{core_rti_content}}
+
+The prescribed RTI application fee of Rs 10 has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].
+
+ **Declaration** I declare that I am a citizen of India.
 
 Thank you.
 
