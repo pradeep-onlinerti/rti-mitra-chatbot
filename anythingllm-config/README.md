@@ -26,7 +26,9 @@ Once you have started a new workspace in AnythingLLM, follow these steps to conf
 
    - Search Preference: Accuracy Optimized
 
-   - Document Similarity Threshold: Low
+   - Max Context Snippets: 2
+
+   - Document Similarity Threshold: Medium 
 
 ## 🧠 3. Upload Knowledgebase Documents
 
@@ -37,6 +39,11 @@ Once you have started a new workspace in AnythingLLM, follow these steps to conf
    - anythingllm-config/knowledgebases/
 
 3. After upload, move to the workspace and click “Save and Embed”.
+
+4. Pin the following documents -
+   - RTI_Custom_Drafting_Rules.md
+   - RTI_Offline_Application_Filing_Instructions_Template.md
+   - RTI_Online_Application_Filing_Instructions_Template.md
 
 ## 🔁 Important Notes
 

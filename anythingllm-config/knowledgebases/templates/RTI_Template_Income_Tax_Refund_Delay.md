@@ -29,7 +29,7 @@ In this connection, please provide me the following information under section 2(
 
 ### Here is the Full RTI Application
 
-To, 
+To,
 Public Information Officer, 
 Income Tax Department 
 

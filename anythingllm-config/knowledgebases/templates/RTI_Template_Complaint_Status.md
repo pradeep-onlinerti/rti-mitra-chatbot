@@ -5,20 +5,20 @@
 
 Dear Sir/Madam,
 
-I had submitted a complaint to **\[Name of Department/Authority\]** regarding **\[Brief Nature of Complaint\]** on **\[Date\]**. However, I have not received any communication or update regarding the status or action taken on my complaint.
+I had submitted a complaint to **\[Name of Department/Authority\]** regarding **\[Brief Nature of Complaint\]** on **\[Complaint Date\]**. However, I have not received any communication or update regarding the status or action taken on my complaint.
 
 Below are the relevant details for your reference:
 
-* **Name of Complainant:** \[Insert Full Name\]  
-* **Complaint Reference Number (if available):** \[Insert Reference No.\]  
-* **Date of Complaint Submission:** \[Insert Date\]  
-* **Subject of Complaint:** \[Brief Subject\]  
-* **Department/Office Where Complaint Was Filed:** \[Insert Name\]  
+* **Name of Complainant:** \[Full Name\]  
+* **Complaint Reference Number (if available):** \[Reference No.\]  
+* **Date of Complaint Submission:** \[Complaint Date\]  
+* **Subject of Complaint:** \[Brief Nature of Complaint\]  
+* **Department/Office Where Complaint Was Filed:** \[Department Name\]  
 * **Mode of Submission:** \[Online / Email / In Person / Portal Name\]
 
 Under Section 6(1) of the Right to Information Act, 2005, I request the following information regarding the complaint submitted
 
-1. **The daily progress made** on my complaint dated \[Insert Date\] and subsequent reminders (if any) submitted regarding \[Subject of Complaint\].
+1. **The daily progress made** on my complaint dated \[Complaint Date\] and subsequent reminders (if any) submitted regarding \[Brief Nature of Complaint\].
 
 2. The **current status** of my complaint as of the date of this application.
 
@@ -31,10 +31,6 @@ Under Section 6(1) of the Right to Information Act, 2005, I request the followin
 6. I would also like to **inspect all relevant documents and records** relating to the processing of my complaint.
 
 7. A **copy of the rules/regulations/citizen charter** or any official order that lays down the **timeline or standard procedure** for redressal of such complaints.
-
-The prescribed RTI application fee of \[Rs 10/20\] has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].
-
-**Declaration** I declare that I am a citizen of India.
 
 <!-- END OF Main Part of RTI Application -->
 
@@ -49,6 +45,10 @@ The Public Information Officer (PIO)
 **Subject:** Request for information regarding status and action taken on complaint under the RTI Act, 2005
 
 {{core_rti_content}}
+
+The prescribed RTI application fee of \[Rs 10/20\] has been paid via \[Indian Postal Order (IPO) / Court Fee Stamp / Online RTI Payment\].
+
+**Declaration** I declare that I am a citizen of India.
 
 Thank you.
 
