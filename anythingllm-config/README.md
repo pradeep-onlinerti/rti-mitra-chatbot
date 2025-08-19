@@ -26,6 +26,8 @@ Once you have started a new workspace in AnythingLLM, follow these steps to conf
 
    - Search Preference: Accuracy Optimized
 
+   - Max Context Snippets: 2
+
    - Document Similarity Threshold: Medium 
 
 ## 🧠 3. Upload Knowledgebase Documents
