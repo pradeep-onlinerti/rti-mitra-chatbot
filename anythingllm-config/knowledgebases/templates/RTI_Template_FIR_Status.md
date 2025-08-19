@@ -41,7 +41,7 @@ Declaration I declare that I am a citizen of India.
 
 Thank you.
 Yours sincerely,
-\[Your Full Name\]
+**\[Your Full Name\]**
 \[Your Complete Postal Address\]
 \[Your Mobile Number\]
 \[Email ID (optional)\]

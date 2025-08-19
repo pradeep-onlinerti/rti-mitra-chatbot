@@ -11,7 +11,7 @@ Below are the relevant details of my application:
 
 * **Name of Applicant:** \[Insert Full Name\]  
 * **Application Number/ID (if available):** \[Insert Application ID\]  
-* **Name of Pension Scheme:** \[Insert Scheme Name\]  
+* **Name of Pension Scheme:** \[Name of Pension Scheme, e.g., Old Age Pension / Widow Pension / Government Employee Pension\]  
 * **Date of Application Submission:** \[Insert Date\]  
 * **Department/Office Submitted To:** \[Insert Name of Department/Office\]  
 * **District and State:** \[Insert District and State\]

@@ -10,10 +10,10 @@ I am writing to request **verification of an academic degree certificate** issue
 Below are the relevant details of the applicant and the academic credential:
 
 * **Name of Applicant:** \[Insert Full Name\]  
-* **Roll Number / Enrollment Number:** \[Insert Number\]  
+* **Roll Number / Enrollment Number:** \[Roll Number or Enrollment Number \]  
 * **Name of Degree / Course:** \[Insert Degree Name, e.g., B.Sc. in Physics\]  
 * **Year of Passing:** \[Insert Year\]  
-* **University / Institution Name:** \[Insert Full Name\]  
+* **University / Institution Name:** \[Name of University/Institution\]  
 * **Copy of Degree Certificate Enclosed:** Yes (Self-attested)
 
 Under Section 6(1) of the Right to Information Act, 2005, I request the following information:
