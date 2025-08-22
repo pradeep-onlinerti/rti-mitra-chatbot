@@ -97,7 +97,7 @@ Each HTML file includes:
 
 ## 🧪 Testing Tips
 
-- Use  test file  `TestInput.csv` to know input format.
+- Use  test file  `test_input.csv` to know input format.
 - Try toggling the `ON_MISSING_RTI` and `ON_DUPLICATE_RTI` config values to test error handling
 
 ---
