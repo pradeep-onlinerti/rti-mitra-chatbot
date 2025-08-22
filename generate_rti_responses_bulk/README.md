@@ -1,6 +1,6 @@
-# RTI Mitra – Batch RTI HTML Response Generator
+# RTI Mitra – Batch RTI HTML Response Generator (Jupyter Notebook)
 
-This script automates the process of drafting RTI (Right to Information) applications using a chatbot (like RTI Mitra) and saving the results as HTML files. It supports both individual HTML outputs and a combined summary file for review.
+This Jupyter notebook automates the process of drafting RTI (Right to Information) applications using a chatbot (like RTI Mitra) and saving the results as HTML files. It supports both individual HTML outputs and a combined summary file for review.
 
 ---
 
@@ -21,6 +21,7 @@ This script automates the process of drafting RTI (Right to Information) applica
 ## 🛠️ Requirements
 
 - Python 3.7+
+- Jupyter Notebook or JupyterLab
 - Install required packages using:
 
 ```bash
@@ -33,17 +34,17 @@ pip install pandas requests markdown python-dotenv
 
 ```
 .
-├── generate_rti_html_responses.py   # Main script
-├── NonTemplateRTIs.csv              # Input data file (example)
-├── rti_html_outputs/                # Folder for individual HTML files
-└── RTI_Mitra_All.html               # Combined output file
+├── generate_rti_html_responses.ipynb   # Main notebook
+├── NonTemplateRTIs.csv                 # Input data file (example)
+├── rti_html_outputs/                   # Folder for individual HTML files
+└── RTI_Mitra_All.html                  # Combined output file
 ```
 
 ---
 
 ## ⚙️ Configuration
 
-Edit the following section at the top of the script:
+Edit the config cell at the top of the notebook:
 
 ```python
 INPUT_PATH = "NonTemplateRTIs.csv"           # Input file path (CSV or XLSX)
@@ -76,13 +77,11 @@ Other accepted variants:
 
 ## ▶️ How to Run
 
-```bash
-python generate_rti_html_responses.py
-```
-
-The script will:
-- Create individual HTML files in the `rti_html_outputs/` directory
-- Generate a single `RTI_Mitra_All.html` file containing all drafts and summary
+1. Open `generate_rti_html_responses.ipynb` in Jupyter Notebook or JupyterLab
+2. Step through the notebook and run each cell sequentially
+3. Once completed:
+   - Individual HTMLs will be saved in the `rti_html_outputs/` directory
+   - A combined HTML file (`RTI_Mitra_All.html`) will contain all responses
 
 ---
 
@@ -98,7 +97,7 @@ Each HTML file includes:
 
 ## 🧪 Testing Tips
 
-- Start with a small input (2–3 rows) to test output formatting
+- Use  test file  `TestInput.csv` to know input format.
 - Try toggling the `ON_MISSING_RTI` and `ON_DUPLICATE_RTI` config values to test error handling
 
 ---
@@ -117,3 +116,8 @@ This tool is part of the [OnlineRTI / RTI Mitra](https://onlinerti.com) initiati
 Contact: [support@onlinerti.com](mailto:support@onlinerti.com)
 
 ---
+
+## 👥 Maintainers
+
+- RTI Mitra Team (OnlineRTI)
+- https://onlinerti.com
