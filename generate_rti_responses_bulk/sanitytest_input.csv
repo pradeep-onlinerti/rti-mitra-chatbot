@@ -1,0 +1,570 @@
+RTINumber,Template,Subject,MainMessage,User Query
+1139739,Income Tax Refund Delay,The status of my IT Refund for FY [MASKED_DATE]; PAN number : [MASKED_NAME],"""Following are the details of my Income Tax refund claim: 
+ PAN number : [MASKED_NAME]
+  
+ Financial Year : [MASKED_DATE]
+ 
+ Ward/Circle No : 14(4)
+ 
+ Refund Amount : 19410
+  
+ As of date, I have not received my refund. Please advise the reason for the delay.""","Subject: The status of my IT Refund for FY [MASKED_DATE]; PAN number : [MASKED_NAME]
+
+""Following are the details of my Income Tax refund claim: 
+ PAN number : [MASKED_NAME]
+  
+ Financial Year : [MASKED_DATE]
+ 
+ Ward/Circle No : 14(4)
+ 
+ Refund Amount : 19410
+  
+ As of date, I have not received my refund. Please advise the reason for the delay."""
+1168519,Income Tax Refund Delay,Status of my IT Refund for the FY [MASKED_DATE]-22; PAN number [MASKED_ID],"""Following are the details of my Income Tax refund claim: 
+  [MASKED_NAME] PAN number : [MASKED_ID]
+ Financial Year : [MASKED_DATE]-22
+ Ward/Circle Number : 
+ Refund Amount : 142010
+ Name of the District of IT Office : [MASKED_ADDRESS]
+ Date of application : 17th Sept [MASKED_DATE]
+  
+ As of date, I have not received my refund. Please advise the reason for the delay.""","Subject: Status of my IT Refund for the FY [MASKED_DATE]-22; PAN number [MASKED_ID]
+
+""Following are the details of my Income Tax refund claim: 
+  [MASKED_NAME] PAN number : [MASKED_ID]
+ Financial Year : [MASKED_DATE]-22
+ Ward/Circle Number : 
+ Refund Amount : 142010
+ Name of the District of IT Office : [MASKED_ADDRESS]
+ Date of application : 17th Sept [MASKED_DATE]
+  
+ As of date, I have not received my refund. Please advise the reason for the delay."""
+1139739,Income Tax Refund Delay,The status of my IT Refund for FY 2010-2011; PAN number : [MASKED_NAME],"Following are the details of my Income Tax refund claim: \n \nPAN number : [MASKED_NAME]\n \nFinancial Year : 2010-11\n \nWard/Circle No : 14(4)\n \nRefund Amount : 19410\n \nAs of date, I have not received my refund. Please advise the reason for the delay.","Subject: The status of my IT Refund for FY 2010-2011; PAN number : [MASKED_NAME]
+
+Following are the details of my Income Tax refund claim: \n \nPAN number : [MASKED_NAME]\n \nFinancial Year : 2010-11\n \nWard/Circle No : 14(4)\n \nRefund Amount : 19410\n \nAs of date, I have not received my refund. Please advise the reason for the delay."
+1133748,Passport Delay,The daily progress on my passport application: BN2074467170322,Following are the details of the Passport Delay for:\n \nName of Applicant : [MASKED_NAME]\n \nPassport Application Number : BN2074467170322\n \nName of Passport Office : Bengaluru\n \nApplication Submission Date : 04/08/2022\n,"Subject: The daily progress on my passport application: BN2074467170322
+
+Following are the details of the Passport Delay for:\n \nName of Applicant : [MASKED_NAME]\n \nPassport Application Number : BN2074467170322\n \nName of Passport Office : Bengaluru\n \nApplication Submission Date : 04/08/2022\n"
+1146446,Passport Delay,Information Regarding - Passport Delay,Following are the details of the Passport Delay for:\n \nName of Applicant : [MASKED_NAME]\n \nPassport Application Number : [MASKED_ID]\n \nName of Passport Office : Ambala\n \nApplication Submission Date : 24/08/2022\n,"Subject: Information Regarding - Passport Delay
+
+Following are the details of the Passport Delay for:\n \nName of Applicant : [MASKED_NAME]\n \nPassport Application Number : [MASKED_ID]\n \nName of Passport Office : Ambala\n \nApplication Submission Date : 24/08/2022\n"
+1158717,Passport Delay,The daily progress on my passport application [MASKED_ID],"""My passport application details: 
+ \n \n1. Name of the Applicant : [MASKED_NAME] 
+ \n \n2. Passport Application Number : 22-1010796591 
+ \n \n3. Passport Office : RPO VIJAYAWADA 
+ \n \n4. Application Submission Date : 20/10/2022 
+ \n \n for the past two weeks, there is not change in status even though Police Verification Report is available. I am still waiting for its delivery. Please advise the reason for the delay.""","Subject: The daily progress on my passport application [MASKED_ID]
+
+""My passport application details: 
+ \n \n1. Name of the Applicant : [MASKED_NAME] 
+ \n \n2. Passport Application Number : 22-1010796591 
+ \n \n3. Passport Office : RPO VIJAYAWADA 
+ \n \n4. Application Submission Date : 20/10/2022 
+ \n \n for the past two weeks, there is not change in status even though Police Verification Report is available. I am still waiting for its delivery. Please advise the reason for the delay."""
+1132754,FIR Status,The daily progress made of FIR [MASKED_ID],Following are the details of the FIR \n \nFIR Number : [MASKED_ID]\n \nPolice Station : Model Town\n \nDate of FIR : [MASKED_DATE]\n \n Please provide me the status of the above FIR and confirm the actions taken on it to date.,"Subject: The daily progress made of FIR [MASKED_ID]
+
+Following are the details of the FIR \n \nFIR Number : [MASKED_ID]\n \nPolice Station : Model Town\n \nDate of FIR : [MASKED_DATE]\n \n Please provide me the status of the above FIR and confirm the actions taken on it to date."
+1134508,FIR Status,The daily progress made of FIR [MASKED_FIR_NUMBER],"Following are the details of the FIR \n \nFIR Number : [MASKED_FIR_NUMBER] \n \nPolice Station Roorkee \n \nDate of FIR : [MASKED_DATE] \n \nThere was a theft at my home on [MASKED_DATE], and an FIR was registered (FIR No.: [MASKED_FIR_NUMBER]) in Police Station Roorkee, Haridwar.The thief has taken all the gold jewelry at home by breaking the main door, Almirah and its locker.I'm a senior citizen have been regularly visiting station for the progress in investigation but seems there is no progress. All my life saving has gone with the theft. Kindly provide me the updates on the investigation process for the mentioned FIR. Please provide me the status of the above FIR and confirm the actions taken on it to date.","Subject: The daily progress made of FIR [MASKED_FIR_NUMBER]
+
+Following are the details of the FIR \n \nFIR Number : [MASKED_FIR_NUMBER] \n \nPolice Station Roorkee \n \nDate of FIR : [MASKED_DATE] \n \nThere was a theft at my home on [MASKED_DATE], and an FIR was registered (FIR No.: [MASKED_FIR_NUMBER]) in Police Station Roorkee, Haridwar.The thief has taken all the gold jewelry at home by breaking the main door, Almirah and its locker.I'm a senior citizen have been regularly visiting station for the progress in investigation but seems there is no progress. All my life saving has gone with the theft. Kindly provide me the updates on the investigation process for the mentioned FIR. Please provide me the status of the above FIR and confirm the actions taken on it to date."
+1137890,FIR Status,"""Request for information under Right to Information Act,2005
+ for FIR [MASKED_ID]""","Following are the details of the FIR \n \nFIR Number : [MASKED_ID]\n \nPolice Station : Sinhgad Road Police Station , SUNDER SAHAWAS, Sun City Rd, Sun City, Daulat Nagar, Pune, Maharashtra 411051\n \nDate of FIR : [MASKED_DATE]\n \nPlease provide me the status of the above FIR and confirm the actions taken on it to date.","Subject: ""Request for information under Right to Information Act,2005
+ for FIR [MASKED_ID]""
+
+Following are the details of the FIR \n \nFIR Number : [MASKED_ID]\n \nPolice Station : Sinhgad Road Police Station , SUNDER SAHAWAS, Sun City Rd, Sun City, Daulat Nagar, Pune, Maharashtra 411051\n \nDate of FIR : [MASKED_DATE]\n \nPlease provide me the status of the above FIR and confirm the actions taken on it to date."
+1136507,EPF Transfer Status,"Information Regarding - the certified copy of ANNEXURE ""K""","""I had applied for transfer of my PF from my previous employer and have waited for a long period for confirmation of the same. My requested PF transfer has not been processed.\n \nFollowing are my PF transfer details:\n \nMy EPF account number : [MASKED_ID] \n \nPrevious Employer : NTPC Limited \n \nCurrent Employer : Tata Power \n \nEPF office holding old account : Delhi central \n \nEPF office holding new account : Nariman Point Bandra-3 \n \nTransfer application date : \n \n I worked in NTPC in the year 1989-2009, subsequently with M/s Reliance Power from 2009 -2011, Then JSPL from 2011 to 2014 , then with Usha Martin Limited from 2014 to 2016 and then with Tata Power 2016 to 2018 and then 2018 to 2020 with CGPL and since then 2020 to till date with Tata Power .My PF is transfer is pending at CGPL since June 2020. My EPS transfer pending from NTPC for the period 1989 to 2009 , due to which my PF and EPS couldn�t be regularized. Now I completed [MASKED_ID] as on 01-06-2022. Want to start pension, however, due to past service non regularization, it is pending. CODE AND ACCOUNT NO . DL/4070/5397 : ANNEXURE """"K"""" COPY REQUIRED FOR TRANSFER MY FPF/EPS ' 95 CONTRIBUTION FROM MY PREVIOUS EMPLOYER NTPC ( DL/4070/5397) FROM 08.06.89 TO 09.07.2009 FROM RPFC (CENTRAL) WAZIPUR DELHI TO MY ACCOUNT CODE NO [MASKED_ID] and to Tata Power MHBAN000908000X0410729For information my UAN No : [MASKED_ID]
+ Mobile No : [MASKED_PHONE_NUMBER] and [MASKED_PHONE_NUMBER]
+ E mail address : [MASKED_EMAIL_ADDRESS]. Please confirm status of my EPF transfer and advise the reason for the delay.""","Subject: Information Regarding - the certified copy of ANNEXURE ""K""
+
+""I had applied for transfer of my PF from my previous employer and have waited for a long period for confirmation of the same. My requested PF transfer has not been processed.\n \nFollowing are my PF transfer details:\n \nMy EPF account number : [MASKED_ID] \n \nPrevious Employer : NTPC Limited \n \nCurrent Employer : Tata Power \n \nEPF office holding old account : Delhi central \n \nEPF office holding new account : Nariman Point Bandra-3 \n \nTransfer application date : \n \n I worked in NTPC in the year 1989-2009, subsequently with M/s Reliance Power from 2009 -2011, Then JSPL from 2011 to 2014 , then with Usha Martin Limited from 2014 to 2016 and then with Tata Power 2016 to 2018 and then 2018 to 2020 with CGPL and since then 2020 to till date with Tata Power .My PF is transfer is pending at CGPL since June 2020. My EPS transfer pending from NTPC for the period 1989 to 2009 , due to which my PF and EPS couldn�t be regularized. Now I completed [MASKED_ID] as on 01-06-2022. Want to start pension, however, due to past service non regularization, it is pending. CODE AND ACCOUNT NO . DL/4070/5397 : ANNEXURE """"K"""" COPY REQUIRED FOR TRANSFER MY FPF/EPS ' 95 CONTRIBUTION FROM MY PREVIOUS EMPLOYER NTPC ( DL/4070/5397) FROM 08.06.89 TO 09.07.2009 FROM RPFC (CENTRAL) WAZIPUR DELHI TO MY ACCOUNT CODE NO [MASKED_ID] and to Tata Power MHBAN000908000X0410729For information my UAN No : [MASKED_ID]
+ Mobile No : [MASKED_PHONE_NUMBER] and [MASKED_PHONE_NUMBER]
+ E mail address : [MASKED_EMAIL_ADDRESS]. Please confirm status of my EPF transfer and advise the reason for the delay."""
+1151316,EPF Transfer Status,The present status of updation of my Aadhar card in the EPF portal; EPF account number [MASKED_ID],"I had applied for transfer of my PF from my previous employer and have waited for a long period for confirmation of the same. My requested PF transfer has not been processed.\n \nFollowing are my PF transfer details:\n \nMy EPF account number : [MASKED_ID] \n \nPrevious Employer : HDBFS \n \nCurrent Employer : HDBFS \n \nEPF office holding old account : Maharashtra \n \nEPF office holding new account : Maharashtra \n \nTransfer application date : [MASKED_DATE]\n \n 1st BANII/E/2022/25574 , 2nd complain ID - BANII/E/2022/28071.submitted all documents also in grievance portal also.unable to seeding my aadhar with PF account.title have to change in portal Please confirm status of my EPF transfer and advise the reason for the delay.","Subject: The present status of updation of my Aadhar card in the EPF portal; EPF account number [MASKED_ID]
+
+I had applied for transfer of my PF from my previous employer and have waited for a long period for confirmation of the same. My requested PF transfer has not been processed.\n \nFollowing are my PF transfer details:\n \nMy EPF account number : [MASKED_ID] \n \nPrevious Employer : HDBFS \n \nCurrent Employer : HDBFS \n \nEPF office holding old account : Maharashtra \n \nEPF office holding new account : Maharashtra \n \nTransfer application date : [MASKED_DATE]\n \n 1st BANII/E/2022/25574 , 2nd complain ID - BANII/E/2022/28071.submitted all documents also in grievance portal also.unable to seeding my aadhar with PF account.title have to change in portal Please confirm status of my EPF transfer and advise the reason for the delay."
+1159345,EPF Transfer Status,The status of my EPF transfer; EPF Account number- [MASKED_ID],"""I had applied for transfer of my PF from my previous employer and have waited for a long period for confirmation of the same. My requested PF transfer has not been processed.
+ 
+ Following are my PF transfer details:
+ 
+ My EPF account number : [MASKED_ID] 
+ Previous Employer : IBM 
+ 
+ Current Employer : Kyndryl 
+ 
+ EPF office holding old account : (SRO) K R PURAM (WHITEFIELD) 
+ 
+ EPF office holding new account : (SRO) BOMMASANDRA 
+ 
+ PF Amount from Previous Employer (IBM) not yet transferred to Current PF account (Kyndryl). Clarification on EPS contribution is already been submitted by my previous employer to PF office on [MASKED_DATE].
+ 
+ As per the order of the Central Information Commission in case titled V.Vaidyanathan vs PIO, EPFO Mumbai bearing no. CIC/BS/C/2014/000321, it has been held that any grievance and/or information relating to pension has to be dealt with, within a period of 48 hours from the receipt of a pension related application.
+ 
+ 1)Please confirm status of my EPF transfer and advise the reason for the delay.
+ 
+ 2)The daily progress on my EPF transfer request.
+ 
+ 3)The name and the designation of the officers entrusted with the responsibility of the EPF transfer in the department.
+ 
+ 4)Under section 2 (j), please provide a certified copy of the rules for the EPF transfer.
+ 
+ 5)Please provide copies of the file notification indicating my EPF transfer request from the date of receipt till date by the concerned officials. I would also like to inspect all documents relating to my case.
+ 
+ 6)The prescribed timeline as per your rules, for EPF transfers.
+ 
+ 7)Date by when I can expect transfer of my EPF.
+ 
+ 8) The total number of such EPF transfer requests, pending till my request got submitted to PF department.""","Subject: The status of my EPF transfer; EPF Account number- [MASKED_ID]
+
+""I had applied for transfer of my PF from my previous employer and have waited for a long period for confirmation of the same. My requested PF transfer has not been processed.
+ 
+ Following are my PF transfer details:
+ 
+ My EPF account number : [MASKED_ID] 
+ Previous Employer : IBM 
+ 
+ Current Employer : Kyndryl 
+ 
+ EPF office holding old account : (SRO) K R PURAM (WHITEFIELD) 
+ 
+ EPF office holding new account : (SRO) BOMMASANDRA 
+ 
+ PF Amount from Previous Employer (IBM) not yet transferred to Current PF account (Kyndryl). Clarification on EPS contribution is already been submitted by my previous employer to PF office on [MASKED_DATE].
+ 
+ As per the order of the Central Information Commission in case titled V.Vaidyanathan vs PIO, EPFO Mumbai bearing no. CIC/BS/C/2014/000321, it has been held that any grievance and/or information relating to pension has to be dealt with, within a period of 48 hours from the receipt of a pension related application.
+ 
+ 1)Please confirm status of my EPF transfer and advise the reason for the delay.
+ 
+ 2)The daily progress on my EPF transfer request.
+ 
+ 3)The name and the designation of the officers entrusted with the responsibility of the EPF transfer in the department.
+ 
+ 4)Under section 2 (j), please provide a certified copy of the rules for the EPF transfer.
+ 
+ 5)Please provide copies of the file notification indicating my EPF transfer request from the date of receipt till date by the concerned officials. I would also like to inspect all documents relating to my case.
+ 
+ 6)The prescribed timeline as per your rules, for EPF transfers.
+ 
+ 7)Date by when I can expect transfer of my EPF.
+ 
+ 8) The total number of such EPF transfer requests, pending till my request got submitted to PF department."""
+1132911,MPLAD Scheme Details,Information Regarding - The works awarded during the period 2019 - 2022 for the [MASKED_NAME] constituency out of the mp funds,This RTI Application is regarding the following constituency\n \nConstituency : [MASKED_NAME] \n \nDistrict : East Godavari \n \nYear : 2019 to 2022\n \nPlease inform how MP funds were used for the above period.,"Subject: Information Regarding - The works awarded during the period 2019 - 2022 for the [MASKED_NAME] constituency out of the mp funds
+
+This RTI Application is regarding the following constituency\n \nConstituency : [MASKED_NAME] \n \nDistrict : East Godavari \n \nYear : 2019 to 2022\n \nPlease inform how MP funds were used for the above period."
+1134089,MPLAD Scheme Details,Information Regarding - MLA and MP Local Area Development Fund allocation and work done,This RTI Application is regarding the following constituency\n \nConstituency : [MASKED_NAME]\n \nDistrict : kalaburagi\n \nYear : 2018 to 2022\n \nPlease inform how MP funds were used for the above period.,"Subject: Information Regarding - MLA and MP Local Area Development Fund allocation and work done
+
+This RTI Application is regarding the following constituency\n \nConstituency : [MASKED_NAME]\n \nDistrict : kalaburagi\n \nYear : 2018 to 2022\n \nPlease inform how MP funds were used for the above period."
+1138781,MPLAD Scheme Details,Information Regarding - MP Fund,This RTI Application is regarding the following constituency\n \nConstituency : [MASKED_NAME] \n \nDistrict : Konaseema ambedkar district\n \nYear : 2019 to 2022\n \nPlease inform how MP funds were used for the above period.,"Subject: Information Regarding - MP Fund
+
+This RTI Application is regarding the following constituency\n \nConstituency : [MASKED_NAME] \n \nDistrict : Konaseema ambedkar district\n \nYear : 2019 to 2022\n \nPlease inform how MP funds were used for the above period."
+1145811,No Specific Template,Information Regarding - SI recruitment process of [MASKED_DATE],"""1. As per the recruitment of [MASKED_DATE] how many departmental males candidates si executives were recruited by Delhi police 
+ 
+ 2. That i wish to know how many males candidates si executives were joined and how many males candidates were qualified in recruitment process of [MASKED_DATE] males candidates si executives by the Delhi police .
+ 
+ 3. is the delhi police recruitment cell prepared the waiting list or reserve panel in this whole process of recruitment of si males executives in [MASKED_DATE]. if yes please share the copy of waiting l list of reserve panel.
+ 
+ 4. In the recruitment of si executives males departmental and open execution process cpo/cisf and Delhi police candidates by SSC recruitment [MASKED_DATE] whether the recruitment agency followed the d.o.p.t guidelines of 13/6/2000 or not please clarify. 
+ 
+ 5. i also wish to know please clarify the competent authority of the Delhi police recruitment cell that who is the senior officer appointed by the honorable CP Delhi in this whole process of of recruitment Delhi police si executives males in [MASKED_DATE]
+ 
+ 6. kindle share the details that in recruitment si males executives and departmental and open category how many candidates were selected and how many were joining letters issued by the r/ cell DelhiHw police NPRL and how many joined in [MASKED_DATE] 
+ 
+ 7 . As per recruitment of [MASKED_DATE] by the delgi police si executives males candidates open and departmental how many candidates were joined in PTC jarodha kalan as per training beat no- 48 kindly share the figure""","Subject: Information Regarding - SI recruitment process of [MASKED_DATE]
+
+""1. As per the recruitment of [MASKED_DATE] how many departmental males candidates si executives were recruited by Delhi police 
+ 
+ 2. That i wish to know how many males candidates si executives were joined and how many males candidates were qualified in recruitment process of [MASKED_DATE] males candidates si executives by the Delhi police .
+ 
+ 3. is the delhi police recruitment cell prepared the waiting list or reserve panel in this whole process of recruitment of si males executives in [MASKED_DATE]. if yes please share the copy of waiting l list of reserve panel.
+ 
+ 4. In the recruitment of si executives males departmental and open execution process cpo/cisf and Delhi police candidates by SSC recruitment [MASKED_DATE] whether the recruitment agency followed the d.o.p.t guidelines of 13/6/2000 or not please clarify. 
+ 
+ 5. i also wish to know please clarify the competent authority of the Delhi police recruitment cell that who is the senior officer appointed by the honorable CP Delhi in this whole process of of recruitment Delhi police si executives males in [MASKED_DATE]
+ 
+ 6. kindle share the details that in recruitment si males executives and departmental and open category how many candidates were selected and how many were joining letters issued by the r/ cell DelhiHw police NPRL and how many joined in [MASKED_DATE] 
+ 
+ 7 . As per recruitment of [MASKED_DATE] by the delgi police si executives males candidates open and departmental how many candidates were joined in PTC jarodha kalan as per training beat no- 48 kindly share the figure"""
+1133084,No Specific Template,The rules followed for internal promotion for Junior Assistants and Clerk cum Typists at [MASKED_COMPANY_NAME].,"""1. What are the rules followed for internal promotion for junior assistants and clerk cum\ntypists at [MASKED_COMPANY_NAME]?\
+ 2. How many casual leaves, child care leaves, academic leaves, and any other leaves are\neligible for teaching staff and non-teaching staff?\n3. Please provide details of individual teaching staff and non-teaching staff of Engineering\ncolleges who have taken casual leaves, medical leaves, academic leaves, and any other\nleaves from 2020–2021 to July 2022. Kindly provide us with sanctioned letters.\n4. How many posts are sanctioned (Teaching and Non-Teaching) in all three engineering\ncolleges at [MASKED_COMPANY_NAME]? Kindly provide details?\n5. What are the rules followed for the appointment of a principal at engineering colleges?\n6. What is the status of the fake certificate verification? What are the punishments given?\n7. How many teachers have applied for study leave? What are the guidelines for adhering to\nobtaining study leave? What are the certificates provided every six months for extension\nof leave?\n8. As per rules, how many classes should be conducted in a semester to complete the\nsyllabus of a subject?\n9. How much budget has been allocated for the 2018-19 to 2022-2023 financial years for\nengineering colleges?\n1. The budgeted amount head wise 2. Expenditure head wise\n10. How many branches are affiliated as per AICTE norms in engineering colleges? All\nengineering colleges affiliated to AICTE or not?\n11. What are the rules followed for contractual teacher appointments at [MASKED_COMPANY_NAME]? Kindly provide details of all the contractual staff details with qualifications and roster points.\n12. Even though government auditors are available in universities, why is an external\ncchartered accountant appointed? Why the huge amount paid to the auditors?\n13. What is the current state of solar power panels of University? How much power is\ngenerated and how much power is saved?\n14. How much has been spent for the development of [MASKED_COMPANY_NAME] till date? Kindly provide details?\n15. What is the status of the ACB case in [MASKED_COMPANY_NAME]? What are the\nactions taken against employees who are involved in ACB cases?\n16. What are the family pension rules? Is it eligible for employee (In service)?\n17. What is the maximum time period for qualified internal promotion examination employees (if\nthe position is not available)?""","Subject: The rules followed for internal promotion for Junior Assistants and Clerk cum Typists at [MASKED_COMPANY_NAME].
+
+""1. What are the rules followed for internal promotion for junior assistants and clerk cum\ntypists at [MASKED_COMPANY_NAME]?\
+ 2. How many casual leaves, child care leaves, academic leaves, and any other leaves are\neligible for teaching staff and non-teaching staff?\n3. Please provide details of individual teaching staff and non-teaching staff of Engineering\ncolleges who have taken casual leaves, medical leaves, academic leaves, and any other\nleaves from 2020–2021 to July 2022. Kindly provide us with sanctioned letters.\n4. How many posts are sanctioned (Teaching and Non-Teaching) in all three engineering\ncolleges at [MASKED_COMPANY_NAME]? Kindly provide details?\n5. What are the rules followed for the appointment of a principal at engineering colleges?\n6. What is the status of the fake certificate verification? What are the punishments given?\n7. How many teachers have applied for study leave? What are the guidelines for adhering to\nobtaining study leave? What are the certificates provided every six months for extension\nof leave?\n8. As per rules, how many classes should be conducted in a semester to complete the\nsyllabus of a subject?\n9. How much budget has been allocated for the 2018-19 to 2022-2023 financial years for\nengineering colleges?\n1. The budgeted amount head wise 2. Expenditure head wise\n10. How many branches are affiliated as per AICTE norms in engineering colleges? All\nengineering colleges affiliated to AICTE or not?\n11. What are the rules followed for contractual teacher appointments at [MASKED_COMPANY_NAME]? Kindly provide details of all the contractual staff details with qualifications and roster points.\n12. Even though government auditors are available in universities, why is an external\ncchartered accountant appointed? Why the huge amount paid to the auditors?\n13. What is the current state of solar power panels of University? How much power is\ngenerated and how much power is saved?\n14. How much has been spent for the development of [MASKED_COMPANY_NAME] till date? Kindly provide details?\n15. What is the status of the ACB case in [MASKED_COMPANY_NAME]? What are the\nactions taken against employees who are involved in ACB cases?\n16. What are the family pension rules? Is it eligible for employee (In service)?\n17. What is the maximum time period for qualified internal promotion examination employees (if\nthe position is not available)?"""
+1161778,No Specific Template,"A certified list of students who got admission under EWS category in session 2012 and of 2013 in Lancer convent school, Prashant Vihar, Delhi.","1.DETAILS REQUIRED OF STUDENTS WHO GOT ADMISSION UNDER [MASKED_NAME] CATEGORY IN ACADEMIC SESSION 2012 and 2013 OF LANCER CONVENT SCHOOL PRASHANT VIHAR,DELHI\n2.FURTHER REQUIRED AT PRESENT STATUS/ CATEGORY DETAILS AS ON [MASKED_DATE]'S STUDENTS UNDER EWS CATEGORY WHO GOT ADMISSION UNDER ACADEMIC SESSION 2012 and 2013 OF LANCER CONVENT SCHOOL PRASHANT VIHAR DELHI","Subject: A certified list of students who got admission under EWS category in session 2012 and of 2013 in Lancer convent school, Prashant Vihar, Delhi.
+
+1.DETAILS REQUIRED OF STUDENTS WHO GOT ADMISSION UNDER [MASKED_NAME] CATEGORY IN ACADEMIC SESSION 2012 and 2013 OF LANCER CONVENT SCHOOL PRASHANT VIHAR,DELHI\n2.FURTHER REQUIRED AT PRESENT STATUS/ CATEGORY DETAILS AS ON [MASKED_DATE]'S STUDENTS UNDER EWS CATEGORY WHO GOT ADMISSION UNDER ACADEMIC SESSION 2012 and 2013 OF LANCER CONVENT SCHOOL PRASHANT VIHAR DELHI"
+1142451,No Specific Template,The daily progress made on my application dated [MASKED_DATE] for covid insurance money of Rs. 1 lakh,"I’m [MASKED_NAME], M.B.B.S. from Medical college and hospital, Kolkata. During my internship, I suffered from Covid-19 infection. I was diagnosed on [MASKED_DATE] and was then admitted in my own hospital for adequate duration. Being a frontline covid worker, I am entitled to covid insurance money of Rs. 1 lakh as per government of West Bengal, in pursuance of order number HF/0/COVID-19/[MASKED_ID] dated [MASKED_DATE]. I have submitted the needed documents twice but am still waiting for the claim since past 2 years. I would like to know the current status of my application, why have I not received my fair share yet and when will I get it. \nThankyou.","Subject: The daily progress made on my application dated [MASKED_DATE] for covid insurance money of Rs. 1 lakh
+
+I’m [MASKED_NAME], M.B.B.S. from Medical college and hospital, Kolkata. During my internship, I suffered from Covid-19 infection. I was diagnosed on [MASKED_DATE] and was then admitted in my own hospital for adequate duration. Being a frontline covid worker, I am entitled to covid insurance money of Rs. 1 lakh as per government of West Bengal, in pursuance of order number HF/0/COVID-19/[MASKED_ID] dated [MASKED_DATE]. I have submitted the needed documents twice but am still waiting for the claim since past 2 years. I would like to know the current status of my application, why have I not received my fair share yet and when will I get it. \nThankyou."
+1167620,No Specific Template,The total [MASKED_NAME] population of Kerala according to [MASKED_DATE],"Please provide the statistics of [MASKED_NAME] population of Kerala according to [MASKED_DATE] census as in age group 0-4, 5-9, 10-14, 15-19, 20-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50-54, 55-59, 60-64, 65-69, 70-74, 75-79, 80-84, 85-89, and 90 and above separately for male and female.","Subject: The total [MASKED_NAME] population of Kerala according to [MASKED_DATE]
+
+Please provide the statistics of [MASKED_NAME] population of Kerala according to [MASKED_DATE] census as in age group 0-4, 5-9, 10-14, 15-19, 20-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50-54, 55-59, 60-64, 65-69, 70-74, 75-79, 80-84, 85-89, and 90 and above separately for male and female."
+1160444,No Specific Template,Information Regarding - certified copy of the medical records of Patient [MASKED_NAME).,I AM [MASKED_NAME]\n I TAKE MEDICAL REPORT ATTESTED COPY OF MY WIFE [MASKED_NAME] TO DISTRICT CIVIL HOSPITAL CHARKHI DADRI WHO ADMITTED THEIR [MASKED_DATE].,"Subject: Information Regarding - certified copy of the medical records of Patient [MASKED_NAME).
+
+I AM [MASKED_NAME]\n I TAKE MEDICAL REPORT ATTESTED COPY OF MY WIFE [MASKED_NAME] TO DISTRICT CIVIL HOSPITAL CHARKHI DADRI WHO ADMITTED THEIR [MASKED_DATE]."
+1172174,No Specific Template,The rules and procedures to obtain the Meter and Security amount submitted for Consumer No [MASKED_ID],[MASKED_NAME] ke naam se JBVNL se CS ki 1kw ki ek connection [MASKED_DATE] ko liya tha shop ke liye.jiski consumer no [MASKED_ID] hai .jo kisi karan bash shop bandh kerne ke karan mai [MASKED_DATE] ko connection surrender ker diya .subdivision se connection cit diya aur metre le gaya .ab mai metre aur security deposite ke liye kaha aur kaise aur kabtak refund paunga .batane ke kripa kare.,"Subject: The rules and procedures to obtain the Meter and Security amount submitted for Consumer No [MASKED_ID]
+
+[MASKED_NAME] ke naam se JBVNL se CS ki 1kw ki ek connection [MASKED_DATE] ko liya tha shop ke liye.jiski consumer no [MASKED_ID] hai .jo kisi karan bash shop bandh kerne ke karan mai [MASKED_DATE] ko connection surrender ker diya .subdivision se connection cit diya aur metre le gaya .ab mai metre aur security deposite ke liye kaha aur kaise aur kabtak refund paunga .batane ke kripa kare."
+1171901,No Specific Template,A certified copy of the Prior deed and execute receipt of the partition of the property bearing [MASKED_TP_NUMBER].,"Our Ancestral property bearing [MASKED_TP_NUMBER] has been partioned and pokuvaravu \n done Tp [MASKED_TP_NUMBER], Tp [MASKED_TP_NUMBER] done by Maradu Village Office. A copy of execute receipt required and want to know how it is partly done when it is applicable to all parties.","Subject: A certified copy of the Prior deed and execute receipt of the partition of the property bearing [MASKED_TP_NUMBER].
+
+Our Ancestral property bearing [MASKED_TP_NUMBER] has been partioned and pokuvaravu \n done Tp [MASKED_TP_NUMBER], Tp [MASKED_TP_NUMBER] done by Maradu Village Office. A copy of execute receipt required and want to know how it is partly done when it is applicable to all parties."
+1175493,No Specific Template,"RERA approval obtained for Paint house above 13th floor on Mangalam City, Adityapur, Saraikela Kharsawan.","I want to know the details of ptoject [MASKED_ID]/PROJECT/[MASKED_ID]/2020, Mangalam City, Adityapur, Saraikela kharsawan. I want to know the approved total number of floors of Tower #5, its Fire fighting plan as high rise building, Lift emergency procedures from RERA Ranchi, working under ministry of Housing and Urban Affairs","Subject: RERA approval obtained for Paint house above 13th floor on Mangalam City, Adityapur, Saraikela Kharsawan.
+
+I want to know the details of ptoject [MASKED_ID]/PROJECT/[MASKED_ID]/2020, Mangalam City, Adityapur, Saraikela kharsawan. I want to know the approved total number of floors of Tower #5, its Fire fighting plan as high rise building, Lift emergency procedures from RERA Ranchi, working under ministry of Housing and Urban Affairs"
+1139079,No Specific Template,The marriage registrar under [MASKED_COMPANY_NAME],"I need information regarding marriage registrar under Foreign Marriages Act\nAddress of Registrar and its contact number,mail-id,and website related information about marriage registrar under Foreign Marriages Act","Subject: The marriage registrar under [MASKED_COMPANY_NAME]
+
+I need information regarding marriage registrar under Foreign Marriages Act\nAddress of Registrar and its contact number,mail-id,and website related information about marriage registrar under Foreign Marriages Act"
+1136054,No Specific Template,The daily progress made on my Appeal petition dated [MASKED_DATE] to cancel the Patta number [MASKED_ID],"My Complaint regarding New Patta No [MASKED_ID] to M.Mohamed Niyas S/O Late .K.M.A . Muthalif, Katchery Street Karambakudi issued by Thasildar, Taluk Office Karambakudi - 622302 Pudukottai District Tamil Nadu despite having received Ad Interim Injunction stay order in Partition Suit No.. O.S20 / 2021 by Principal District Judge (PDJ) Pudukottai 622001 - along with relevant enclosures sent by Speed Post delivered to Thasildar , Karambakudi on [MASKED_DATE]. 
+
+PARA 2 : Despite having received the Copy of Ad Interim Injunction along with its enclosures by Private Notice by my Advocate . David Arockiya Doss, Law Chamber,, Court Complex Pudukottai., based on the misrepresentations / concealing the material facts by the Respondent No.3 of the Civil Suit M.Mohamed Nias @ Karambakudi as described above. 
+
+PARA: 3 : BUT THASILDAR , KARAMBAKUDI TALUK ,PUDUKOTTAI DISTRICT ISSUED A NEW PATTA No.[MASKED_ID] IN THE NAME R 3 .M.MOHAMED NIYAS AGAINST (a)JUDGEMENT OF HONOURABLE MADRAS HIGH COURT, CHENNAI, TAMIL NADU,. (b) Circular issued by The Commissioner of Land Administration , Government of Tamil Nadu , based on the High Court Madras judgement, NOT TO MAKE ANY CHANGE IN THE REVENUE RECORDS WHILE THE MATTER HAS BEEN IN SUBJUDICE 
+
+PARA 4 : However Thasildar of Karambakudi having received Court Stay Order along with its enclosures on [MASKED_DATE] ILLEGALLY ISSUED A NEW PATTA NO.[MASKED_ID] IN TO THE NAME M.MOHAMED NIYAS ON [MASKED_DATE]. 
+
+PARA NO.5 : THESE FACTS WERE SENT TO RDO, REVENUE DEPARTMENT , PUDUKOTTAI - 622001 ( THE APPELLATE AUTHORITY ) ALONG WITH ALL THE RELEVANT PAPERS/ COPY OF HIGH COURT MADRAS JUDGEMENT / COPY OF PDJ PUDUKOTTAI ORDER AND ADVOCATE PRIVATE NOTICE etc.by Speed Post and it was delivered to RDO, PUDUKOTTAI ON [MASKED_DATE]","Subject: The daily progress made on my Appeal petition dated [MASKED_DATE] to cancel the Patta number [MASKED_ID]
+
+My Complaint regarding New Patta No [MASKED_ID] to M.Mohamed Niyas S/O Late .K.M.A . Muthalif, Katchery Street Karambakudi issued by Thasildar, Taluk Office Karambakudi - 622302 Pudukottai District Tamil Nadu despite having received Ad Interim Injunction stay order in Partition Suit No.. O.S20 / 2021 by Principal District Judge (PDJ) Pudukottai 622001 - along with relevant enclosures sent by Speed Post delivered to Thasildar , Karambakudi on [MASKED_DATE]. 
+
+PARA 2 : Despite having received the Copy of Ad Interim Injunction along with its enclosures by Private Notice by my Advocate . David Arockiya Doss, Law Chamber,, Court Complex Pudukottai., based on the misrepresentations / concealing the material facts by the Respondent No.3 of the Civil Suit M.Mohamed Nias @ Karambakudi as described above. 
+
+PARA: 3 : BUT THASILDAR , KARAMBAKUDI TALUK ,PUDUKOTTAI DISTRICT ISSUED A NEW PATTA No.[MASKED_ID] IN THE NAME R 3 .M.MOHAMED NIYAS AGAINST (a)JUDGEMENT OF HONOURABLE MADRAS HIGH COURT, CHENNAI, TAMIL NADU,. (b) Circular issued by The Commissioner of Land Administration , Government of Tamil Nadu , based on the High Court Madras judgement, NOT TO MAKE ANY CHANGE IN THE REVENUE RECORDS WHILE THE MATTER HAS BEEN IN SUBJUDICE 
+
+PARA 4 : However Thasildar of Karambakudi having received Court Stay Order along with its enclosures on [MASKED_DATE] ILLEGALLY ISSUED A NEW PATTA NO.[MASKED_ID] IN TO THE NAME M.MOHAMED NIYAS ON [MASKED_DATE]. 
+
+PARA NO.5 : THESE FACTS WERE SENT TO RDO, REVENUE DEPARTMENT , PUDUKOTTAI - 622001 ( THE APPELLATE AUTHORITY ) ALONG WITH ALL THE RELEVANT PAPERS/ COPY OF HIGH COURT MADRAS JUDGEMENT / COPY OF PDJ PUDUKOTTAI ORDER AND ADVOCATE PRIVATE NOTICE etc.by Speed Post and it was delivered to RDO, PUDUKOTTAI ON [MASKED_DATE]"
+1136115,No Specific Template,Information Regarding - whether my personal phone numbers [MASKED_PHONE_NUMBER] and [MASKED_PHONE_NUMBER] were/are under surveillance,I want to know whether my personal phone numbers [MASKED_PHONE_NUMBER] and [MASKED_PHONE_NUMBER] were/are under surveillance by any authority at the behest my family or anybody for that matter in the year [MASKED_DATE],"Subject: Information Regarding - whether my personal phone numbers [MASKED_PHONE_NUMBER] and [MASKED_PHONE_NUMBER] were/are under surveillance
+
+I want to know whether my personal phone numbers [MASKED_PHONE_NUMBER] and [MASKED_PHONE_NUMBER] were/are under surveillance by any authority at the behest my family or anybody for that matter in the year [MASKED_DATE]"
+1136166,No Specific Template,The retirement age at KSSRDI.,"Please, let me know the answer to the following about [MASKED_NAME] Scientist Karnataka State Sericulture Research and Development Institute (KSSRDI) who also worked as Director Andhra Pradesh State Sericulture Research and Development Institute, Kirikera, Hindupur. 
+
+Q1. Whether retirement age at KSSRDI is 60 years?
+
+Q2. The date when did Dr.[MASKED_NAME] finally retired or resigned from KSSRDI.","Subject: The retirement age at KSSRDI.
+
+Please, let me know the answer to the following about [MASKED_NAME] Scientist Karnataka State Sericulture Research and Development Institute (KSSRDI) who also worked as Director Andhra Pradesh State Sericulture Research and Development Institute, Kirikera, Hindupur. 
+
+Q1. Whether retirement age at KSSRDI is 60 years?
+
+Q2. The date when did Dr.[MASKED_NAME] finally retired or resigned from KSSRDI."
+1136411,No Specific Template,"The total number of the Departmental officers (from the post of Veterinary Surgeon to Additional Directors), who are facing vigilance cases",Howmany departmental officers (from the post of veterinary surgeon to additional directors )are facing vigilance cases including bribe and corruption cases?Please inform the present stations and the home addresses of such veterinary doctors facing vigilance cases.,"Subject: The total number of the Departmental officers (from the post of Veterinary Surgeon to Additional Directors), who are facing vigilance cases
+
+Howmany departmental officers (from the post of veterinary surgeon to additional directors )are facing vigilance cases including bribe and corruption cases?Please inform the present stations and the home addresses of such veterinary doctors facing vigilance cases."
+1136416,No Specific Template,The rules regarding the levy of interest by the builder on the non payment of flat purchase amount.,"# RTI against Haryana Real Estate Regulatory Authority (RERA)- Project Name - SHREE HOMES (PHASE-I), address-[MASKED_ADDRESS], project registration no :HRERA-PKL-FBD-112-2019
+
+
+Query:
+
+1. Project has been delayed, however they are charging heavy interest for non payment . We have already taken home loan for said property (Unit no S1303, Shreehomes, Sarvome Sector 45), and there is nothing due from our side, and bank is doing payment on construction basis and only last payment of Rs [MASKED_ID].00 is due.
+
+2. Till date only superstructure of S tower is done, and nothing more than that. The project has been started from [MASKED_DATE]. At this rate it will take another one and half year for project completion.
+
+3. Bank is not releasing last payment to builder as the project is not completed, and builder is charging interest on same.
+
+4. Now builder is demanding payment on Time line basis and bank is charging on construction basis.
+
+5. We have availed loan and project is already been delayed, its not our fault.
+
+We have already given penal interest of Rs [MASKED_ID].00 during the COVID and as per govt guidelines , interest shouldn't be charged","Subject: The rules regarding the levy of interest by the builder on the non payment of flat purchase amount.
+
+# RTI against Haryana Real Estate Regulatory Authority (RERA)- Project Name - SHREE HOMES (PHASE-I), address-[MASKED_ADDRESS], project registration no :HRERA-PKL-FBD-112-2019
+
+
+Query:
+
+1. Project has been delayed, however they are charging heavy interest for non payment . We have already taken home loan for said property (Unit no S1303, Shreehomes, Sarvome Sector 45), and there is nothing due from our side, and bank is doing payment on construction basis and only last payment of Rs [MASKED_ID].00 is due.
+
+2. Till date only superstructure of S tower is done, and nothing more than that. The project has been started from [MASKED_DATE]. At this rate it will take another one and half year for project completion.
+
+3. Bank is not releasing last payment to builder as the project is not completed, and builder is charging interest on same.
+
+4. Now builder is demanding payment on Time line basis and bank is charging on construction basis.
+
+5. We have availed loan and project is already been delayed, its not our fault.
+
+We have already given penal interest of Rs [MASKED_ID].00 during the COVID and as per govt guidelines , interest shouldn't be charged"
+1136541,No Specific Template,The documents submitted by both Bride and bridegroom for registration of Marriage certificate no [MASKED_ID] dated [MASKED_DATE],Marriage certificate no [MASKED_ID] dated [MASKED_DATE] issued by Marriage officer Patna Mr. Rishikesh Sahpuri issued based on false documents for the marriage of [MASKED_NAME] and [MASKED_NAME] yadav . Conditions of marriage not fulfilled . Need base documents of both Bride and bridegroom submitted by them for registration . Pl. provide us documents for further action on them .,"Subject: The documents submitted by both Bride and bridegroom for registration of Marriage certificate no [MASKED_ID] dated [MASKED_DATE]
+
+Marriage certificate no [MASKED_ID] dated [MASKED_DATE] issued by Marriage officer Patna Mr. Rishikesh Sahpuri issued based on false documents for the marriage of [MASKED_NAME] and [MASKED_NAME] yadav . Conditions of marriage not fulfilled . Need base documents of both Bride and bridegroom submitted by them for registration . Pl. provide us documents for further action on them ."
+1136571,No Specific Template,"The names of members and officer bearers including President, Secretary, Chairman and Treasurer of [MASKED_COMPANY_NAME]","1. Please provide me the names of members and officer bearers including President, Secretary, Chairman and Treasurer of [MASKED_COMPANY_NAME] registration no S-9/2022-2023 in Belguri Baksa Dist under RTI act.
+
+2. Also please let me know if under Cooperative Societies Act, there is any provision which says that a person resident and citizen of India from state of [MASKED_STATE] cannot be member of a cooperative society established under BTAD region.
+
+3. Please let me know if there is any provision in any law under Indian constitution or ACT's bares a person living in [MASKED_STATE] to become a member in a cooperative society in BTAD controlled area.","Subject: The names of members and officer bearers including President, Secretary, Chairman and Treasurer of [MASKED_COMPANY_NAME]
+
+1. Please provide me the names of members and officer bearers including President, Secretary, Chairman and Treasurer of [MASKED_COMPANY_NAME] registration no S-9/2022-2023 in Belguri Baksa Dist under RTI act.
+
+2. Also please let me know if under Cooperative Societies Act, there is any provision which says that a person resident and citizen of India from state of [MASKED_STATE] cannot be member of a cooperative society established under BTAD region.
+
+3. Please let me know if there is any provision in any law under Indian constitution or ACT's bares a person living in [MASKED_STATE] to become a member in a cooperative society in BTAD controlled area."
+1136604,No Specific Template,"The rules and procedures to file a complaint against [MASKED_COMPANY_NAME], Village [MASKED_ADDRESS], District [MASKED_ADDRESS]",[masked_name] ke manmaani se [masked_address] pareshan hai,"Subject: The rules and procedures to file a complaint against [MASKED_COMPANY_NAME], Village [MASKED_ADDRESS], District [MASKED_ADDRESS]
+
+[masked_name] ke manmaani se [masked_address] pareshan hai"
+1136687,No Specific Template,Information Regarding - the certified copy of Proceedings issued,"We need certified copy of Proceedings issued by District collector , [MASKED_ADDRESS], Present:[MASKED_NAME], IAS\n\nProcgs.No.LC/637/[MASKED_DATE] Dated [MASKED_DATE]\n\nSub; Land Alienation- [MASKED_ADDRESS]- Bachupally Mandal - Nizampet Village sy.No.93 Extent Ac0.23 gts Allocation of govt Land for the purpose of Public park - Advance possession - orders issue- reg.","Subject: Information Regarding - the certified copy of Proceedings issued
+
+We need certified copy of Proceedings issued by District collector , [MASKED_ADDRESS], Present:[MASKED_NAME], IAS\n\nProcgs.No.LC/637/[MASKED_DATE] Dated [MASKED_DATE]\n\nSub; Land Alienation- [MASKED_ADDRESS]- Bachupally Mandal - Nizampet Village sy.No.93 Extent Ac0.23 gts Allocation of govt Land for the purpose of Public park - Advance possession - orders issue- reg."
+1136765,No Specific Template,"The official date and year, when the Forest Gazette Notification was issued in Nawabpeta village, Shivampeta Mandal in the [MASKED_COMPANY_NAME] district","Forest department of [MASKED_COMPANY_NAME] in narsapur range nawabpet village revenue survey number 216 have any Forest land? It have any forest land, provide full details this Forest land","Subject: The official date and year, when the Forest Gazette Notification was issued in Nawabpeta village, Shivampeta Mandal in the [MASKED_COMPANY_NAME] district
+
+Forest department of [MASKED_COMPANY_NAME] in narsapur range nawabpet village revenue survey number 216 have any Forest land? It have any forest land, provide full details this Forest land"
+1138105,No Specific Template,The rules regarding School Pass of the Children of the [MASKED_COMPANY_NAME] Employees.,"Want to know in [MASKED_COMPANY_NAME] employees son/daughter get school pass.\n\n1) if break journey is allowed in school pass?\n2) if yes, then how many break journey is allowed in school pass? \n3) if no, then what are the [MASKED_COMPANY_NAME] circular/authourity to deny such break journey in school pass? And copy of the [MASKED_COMPANY_NAME] circular.\n\n4) if pass issue authority can denied mentioning break journey in school pass by their own though applicant applied for school pass with break journey?","Subject: The rules regarding School Pass of the Children of the [MASKED_COMPANY_NAME] Employees.
+
+Want to know in [MASKED_COMPANY_NAME] employees son/daughter get school pass.\n\n1) if break journey is allowed in school pass?\n2) if yes, then how many break journey is allowed in school pass? \n3) if no, then what are the [MASKED_COMPANY_NAME] circular/authourity to deny such break journey in school pass? And copy of the [MASKED_COMPANY_NAME] circular.\n\n4) if pass issue authority can denied mentioning break journey in school pass by their own though applicant applied for school pass with break journey?"
+1138122,No Specific Template,The fee structure for the plumbing work doing by the [MASKED_COMPANY_NAME] for the water connection to the houses,I would like to know the fee structure for the plumbing work doing by the [MASKED_COMPANY_NAME] for the water connection to the houses. Please include the minimum charge and also charges for the additional length of pipe. I’m filing this RTI since i have wondered by knowing the plumbing charges said by the contractor for my 20 meter long connection from main pipe line to my house. Please let me know the fee structure so that i can calculate the charges for my water connection.,"Subject: The fee structure for the plumbing work doing by the [MASKED_COMPANY_NAME] for the water connection to the houses
+
+I would like to know the fee structure for the plumbing work doing by the [MASKED_COMPANY_NAME] for the water connection to the houses. Please include the minimum charge and also charges for the additional length of pipe. I’m filing this RTI since i have wondered by knowing the plumbing charges said by the contractor for my 20 meter long connection from main pipe line to my house. Please let me know the fee structure so that i can calculate the charges for my water connection."
+1138149,No Specific Template,"Information Regarding - Transaction details of rs. 18, 556.36 from my account ([MASKED_ID]) sbi j/2-bk dutta market to bajaj alliance.","From:- Prof. (Dr.) [MASKED_NAME] \tDated:- 01 September 2022.\n E Mail- [MASKED_EMAIL]\nMobile- [MASKED_PHONE_NUMBER] Calling as well as whatsapp also\n E Mail- [MASKED_EMAIL]\nAddress: -[MASKED_ADDRESS].\nTo \nThe CPIO\nState Bank Of India\nOff No-J-2/17,B.K.Dutta Market, Rajouri Garden, New Delhi, Delhi 110027\n\nSubject:- Suspected fraud/ harassment ass Rs. 18, 556.36 \nSir/ Madam\nI am Dr [MASKED_NAME], Citizen of Republic of India and has to submit that there is Suspected fraud/ harassment ass Rs. 18, 556.36 deducted from my account at SBI J/2-BK DDDuta Maarket branch Rajouri Garden New Delhi on 11th July 2022 with online retrieved message from my SBI Branch is\n11 Jul 2022 11 Jul 2022 DEBIT-CMP MANDATE DEBIT\nBULK BAJAJ ALLIANZ DDT\nSBI-\n18,556.36\nThat I have not been asscociated with Bajaj Allaince in anyway recently\nPlease look into the matter as URGENT as it is causing financial and mental haraasment to me and if some cybercrime is suspected please advise me/ refind my amount immediately.I may be pelase intimated at earliest that on which account / ground above deduction has been made to account of Baja Allainz before any further harm is done.\nThanks\nDr. [MASKED_NAME]","Subject: Information Regarding - Transaction details of rs. 18, 556.36 from my account ([MASKED_ID]) sbi j/2-bk dutta market to bajaj alliance.
+
+From:- Prof. (Dr.) [MASKED_NAME] \tDated:- 01 September 2022.\n E Mail- [MASKED_EMAIL]\nMobile- [MASKED_PHONE_NUMBER] Calling as well as whatsapp also\n E Mail- [MASKED_EMAIL]\nAddress: -[MASKED_ADDRESS].\nTo \nThe CPIO\nState Bank Of India\nOff No-J-2/17,B.K.Dutta Market, Rajouri Garden, New Delhi, Delhi 110027\n\nSubject:- Suspected fraud/ harassment ass Rs. 18, 556.36 \nSir/ Madam\nI am Dr [MASKED_NAME], Citizen of Republic of India and has to submit that there is Suspected fraud/ harassment ass Rs. 18, 556.36 deducted from my account at SBI J/2-BK DDDuta Maarket branch Rajouri Garden New Delhi on 11th July 2022 with online retrieved message from my SBI Branch is\n11 Jul 2022 11 Jul 2022 DEBIT-CMP MANDATE DEBIT\nBULK BAJAJ ALLIANZ DDT\nSBI-\n18,556.36\nThat I have not been asscociated with Bajaj Allaince in anyway recently\nPlease look into the matter as URGENT as it is causing financial and mental haraasment to me and if some cybercrime is suspected please advise me/ refind my amount immediately.I may be pelase intimated at earliest that on which account / ground above deduction has been made to account of Baja Allainz before any further harm is done.\nThanks\nDr. [MASKED_NAME]"
+1138310,No Specific Template,"The present status of the Loan amount of Rs [MASKED_ID] deducted from my pension account: [MASKED_NAME], Ac no: [MASKED_ID]","I [MASKED_NAME] wife of Late [MASKED_NAME]. My husband was posted in \nIndian Railways, Mancheswar, Bhubaneswar, Odisha department and he had \navailed housing loan from East Coast Railway, Mancheswar, Bhubaneswar, Indian \nRailways. After the death of my father in 2006 the loan due amount Rs [MASKED_ID] \nalready deducted by the SBI SME branch, Kalyani nagar, Cuttack from order of \nEast Coast Railway, Mancheswar, Bhubaneswar, Indian Railways government \nDepartment from my pension account: [MASKED_NAME], Ac no: \n[MASKED_ID].","Subject: The present status of the Loan amount of Rs [MASKED_ID] deducted from my pension account: [MASKED_NAME], Ac no: [MASKED_ID]
+
+I [MASKED_NAME] wife of Late [MASKED_NAME]. My husband was posted in \nIndian Railways, Mancheswar, Bhubaneswar, Odisha department and he had \navailed housing loan from East Coast Railway, Mancheswar, Bhubaneswar, Indian \nRailways. After the death of my father in 2006 the loan due amount Rs [MASKED_ID] \nalready deducted by the SBI SME branch, Kalyani nagar, Cuttack from order of \nEast Coast Railway, Mancheswar, Bhubaneswar, Indian Railways government \nDepartment from my pension account: [MASKED_NAME], Ac no: \n[MASKED_ID]."
+1138425,No Specific Template,The daily progress made on my son's application dated 12/04/2012 for compassionate appointment in place of [MASKED_NAME],"Due to his mother's ( [MASKED_NAME] ) sudden death 08/11/[MASKED_DATE] when she was in service as an assistant teacher at Bawali High school (HS) South 24 parganas,\nMy son Indranil apply for compassion ground appointment on 14/09/2009 at Bawali School. He further applied at DI office 12/04/[MASKED_DATE] as per instructions of HM of Bawali School Mr. [MASKED_NAME], but till date no reply has received from DI Office.\nIn view of above, I like to know the status of my application.","Subject: The daily progress made on my son's application dated 12/04/2012 for compassionate appointment in place of [MASKED_NAME]
+
+Due to his mother's ( [MASKED_NAME] ) sudden death 08/11/[MASKED_DATE] when she was in service as an assistant teacher at Bawali High school (HS) South 24 parganas,\nMy son Indranil apply for compassion ground appointment on 14/09/2009 at Bawali School. He further applied at DI office 12/04/[MASKED_DATE] as per instructions of HM of Bawali School Mr. [MASKED_NAME], but till date no reply has received from DI Office.\nIn view of above, I like to know the status of my application."
+1138498,No Specific Template,Was [MASKED_NAME] University affiliated with Guru ghasidas University since [MASKED_DATE]? 2_From which year guru ghasidas University gave NOC regarding affiliation to [MASKED_NAME] University to run B.ed course under [MASKED_NAME] college of education? Had guru ghasidas University given any B.ed pass certificate of [MASKED_NAME] University if yes since when?,"1_From which year [MASKED_NAME] college of education affiliated with [MASKED_NAME] University to run B.ed of one year course? 2_From which year [MASKED_NAME] college of education became [MASKED_NAME] University 3_Was [MASKED_NAME] University affiliated with Guru ghasidas University, [MASKED_ADDRESS] for B.ed course from the session [MASKED_DATE]_[MASKED_DATE]","Subject: Was [MASKED_NAME] University affiliated with Guru ghasidas University since [MASKED_DATE]? 2_From which year guru ghasidas University gave NOC regarding affiliation to [MASKED_NAME] University to run B.ed course under [MASKED_NAME] college of education? Had guru ghasidas University given any B.ed pass certificate of [MASKED_NAME] University if yes since when?
+
+1_From which year [MASKED_NAME] college of education affiliated with [MASKED_NAME] University to run B.ed of one year course? 2_From which year [MASKED_NAME] college of education became [MASKED_NAME] University 3_Was [MASKED_NAME] University affiliated with Guru ghasidas University, [MASKED_ADDRESS] for B.ed course from the session [MASKED_DATE]_[MASKED_DATE]"
+1138854,No Specific Template,The daily progress made on Children Education Allowance (CEA) of my son [MASKED_NAME],Non implementation of CEA-1 since FY 2019-20 by PAO GREF,"Subject: The daily progress made on Children Education Allowance (CEA) of my son [MASKED_NAME]
+
+Non implementation of CEA-1 since FY 2019-20 by PAO GREF"
+1138947,No Specific Template,A certified copy of the rules and regulations making it mandatory for the Kashmiri migrants to register with Kashmiri Samiti Delhi,"1. Provisions of law / under which [MASKED_NAME] registered with Delhi Adm must be registered with kashmiri samiti Delhi and non registrant with kasmiri samiti are not eligible for monthly relief.\n2.what is the prescribed period for redressal of grevience by Revenue office . Can representations \nbe filed without communicating decision taken by competent athority.\n3.Reasons for not complying with instructions given by HQ on file , computer no [MASKED_PHONE_NUMBER] forwarded by SDM Tudda Mandi to HQ for instructions in the year [MASKED_DATE]. Now file is lying with DM Saket since [MASKED_DATE].","Subject: A certified copy of the rules and regulations making it mandatory for the Kashmiri migrants to register with Kashmiri Samiti Delhi
+
+1. Provisions of law / under which [MASKED_NAME] registered with Delhi Adm must be registered with kashmiri samiti Delhi and non registrant with kasmiri samiti are not eligible for monthly relief.\n2.what is the prescribed period for redressal of grevience by Revenue office . Can representations \nbe filed without communicating decision taken by competent athority.\n3.Reasons for not complying with instructions given by HQ on file , computer no [MASKED_PHONE_NUMBER] forwarded by SDM Tudda Mandi to HQ for instructions in the year [MASKED_DATE]. Now file is lying with DM Saket since [MASKED_DATE]."
+1139072,No Specific Template,"The present status of the Land Plot # 213, 211 in survey no 36/11 [MASKED_VILLAGE], Serlingampally mandal",We got plot in survey number 36/11 there was a dispute if it is government land or private land. Basis recent Supreme Court judgement it is advised by SC to [MASKED_STATE_NAME] govt to continue statusco as per land / ventures registered in the past to people . My question is what is the current status of applicability of SC order and how some registration are happening in that survey number on what grounds,"Subject: The present status of the Land Plot # 213, 211 in survey no 36/11 [MASKED_VILLAGE], Serlingampally mandal
+
+We got plot in survey number 36/11 there was a dispute if it is government land or private land. Basis recent Supreme Court judgement it is advised by SC to [MASKED_STATE_NAME] govt to continue statusco as per land / ventures registered in the past to people . My question is what is the current status of applicability of SC order and how some registration are happening in that survey number on what grounds"
+1142186,No Specific Template,The embargo in election of cooperative society in West Bengal.,"1) Please provide Reasons for embargo in election of cooperative society in West Bengal \n\n2) Please provide information pertaining to the Status on probable date of resumption of election of cooperative society, West Bengal","Subject: The embargo in election of cooperative society in West Bengal.
+
+1) Please provide Reasons for embargo in election of cooperative society in West Bengal \n\n2) Please provide information pertaining to the Status on probable date of resumption of election of cooperative society, West Bengal"
+1142204,No Specific Template,"The Fair Market Value of land as on [MASKED_DATE] of the land ReSurvey No [MASKED_RESURVEY_NUMBER], Resurvey sub division No [MASKED_SUBDIVISION_NUMBER]","Fair Market Value of land as on [MASKED_DATE] \n[ MASKED_COMPANY_NAME],District/RDO/Taluk -[MASKED_CITY], [MASKED_VILLAGE], Block No [MASKED_BLOCK_NUMBER], ReSurvey No [MASKED_RESURVEY_NUMBER], Resurvey sub division No [MASKED_SUBDIVISION_NUMBER], land type- Residential plot with NH/PWD road access","Subject: The Fair Market Value of land as on [MASKED_DATE] of the land ReSurvey No [MASKED_RESURVEY_NUMBER], Resurvey sub division No [MASKED_SUBDIVISION_NUMBER]
+
+Fair Market Value of land as on [MASKED_DATE] \n[ MASKED_COMPANY_NAME],District/RDO/Taluk -[MASKED_CITY], [MASKED_VILLAGE], Block No [MASKED_BLOCK_NUMBER], ReSurvey No [MASKED_RESURVEY_NUMBER], Resurvey sub division No [MASKED_SUBDIVISION_NUMBER], land type- Residential plot with NH/PWD road access"
+1142319,No Specific Template,The rules regarding gap in part SAR due to transit leave due to transfer,"Application under RTI act 2005\nSUB: REQUEST FOR PROVIDING CLARIFICATION REGARDING THE GAP IN SAR-2020-21 DUE TO LEAVE\n\nI am a Gr.A, [MASKED_STATE Govt.] employee. I have submitted my SAR for FY 2020-21 with 10 days break. Both were forwarded and accepted. Now, head office is saying that the 10 days gap will be treated as service break. For those days, I was on transit leave and on a public holiday, combined, as I was transferred from one place to another (different district).\n\nWhat should be done under this circumstance?","Subject: The rules regarding gap in part SAR due to transit leave due to transfer
+
+Application under RTI act 2005\nSUB: REQUEST FOR PROVIDING CLARIFICATION REGARDING THE GAP IN SAR-2020-21 DUE TO LEAVE\n\nI am a Gr.A, [MASKED_STATE Govt.] employee. I have submitted my SAR for FY 2020-21 with 10 days break. Both were forwarded and accepted. Now, head office is saying that the 10 days gap will be treated as service break. For those days, I was on transit leave and on a public holiday, combined, as I was transferred from one place to another (different district).\n\nWhat should be done under this circumstance?"
+1142868,No Specific Template,Information Regarding - details of TIMIR MANDAL,"""I, [MASKED_NAME] IS THE SUSPENDED HEADMASTER OF CHANDPUR HIGH SCHOOL. THE ADDRESS OF THE SCHOOL IS P.O. [MASKED_ADDRESS], P.S. RAJARHAT, DISTRICT: NORTH 24 PARGANAS, KOLKATA - 700135. TIMIR MANDAL AN EX-ASSISTANT TEACHER OF YOUR INSTITUTION JOINED CHANDPUR HIGH SCHOOL ON 01.12.2016 WITH THE ORDER OF MUTULAL TRANSFER [MEMO NO. [MASKED_ID], DATED: [MASKED_DATE]. BUT HE DID NOT SUBMITTED HIS SERVICE BOOK AND OTHER SERVICE RELATED DOCUMENT TO ME ON AND BEFORE [MASKED_DATE]. 
+ 
+ NOW I HAVE NEED SOME SERVICE DOCUMENT ACCORDING TO RTI RULES. THE SERVICE RELATER DOCUMENTS WHICH I BADLY NEEDED ARE 1. TIMIR MANDALS' SSC RECOMMENDATION LETTER, 2. JOINING REPORT, 3. COPY OF THE RESOLUTION FOR HIS APPROVAL, 4. MEMOS OF HIS TEMPORAL AND PERMANENT APPROVAL, 5. HIS LEAVE REGISTER, 6.DATES OF HIS ONDUTY 7. HIS ALL EDUCATIONAL TESTIMONIALS[MARK SHEETS and CERTIFICATES] AND 8. HIS S.C. CERTIFICATE.""","Subject: Information Regarding - details of TIMIR MANDAL
+
+""I, [MASKED_NAME] IS THE SUSPENDED HEADMASTER OF CHANDPUR HIGH SCHOOL. THE ADDRESS OF THE SCHOOL IS P.O. [MASKED_ADDRESS], P.S. RAJARHAT, DISTRICT: NORTH 24 PARGANAS, KOLKATA - 700135. TIMIR MANDAL AN EX-ASSISTANT TEACHER OF YOUR INSTITUTION JOINED CHANDPUR HIGH SCHOOL ON 01.12.2016 WITH THE ORDER OF MUTULAL TRANSFER [MEMO NO. [MASKED_ID], DATED: [MASKED_DATE]. BUT HE DID NOT SUBMITTED HIS SERVICE BOOK AND OTHER SERVICE RELATED DOCUMENT TO ME ON AND BEFORE [MASKED_DATE]. 
+ 
+ NOW I HAVE NEED SOME SERVICE DOCUMENT ACCORDING TO RTI RULES. THE SERVICE RELATER DOCUMENTS WHICH I BADLY NEEDED ARE 1. TIMIR MANDALS' SSC RECOMMENDATION LETTER, 2. JOINING REPORT, 3. COPY OF THE RESOLUTION FOR HIS APPROVAL, 4. MEMOS OF HIS TEMPORAL AND PERMANENT APPROVAL, 5. HIS LEAVE REGISTER, 6.DATES OF HIS ONDUTY 7. HIS ALL EDUCATIONAL TESTIMONIALS[MARK SHEETS and CERTIFICATES] AND 8. HIS S.C. CERTIFICATE."""
+1142451,No Specific Template,The daily progress made on my application dated [MASKED_DATE] for covid insurance money of Rs. 1 lakh,"I’m [MASKED_NAME], M.B.B.S. from Medical college and hospital, Kolkata. During my internship, I suffered from Covid-19 infection. I was diagnosed on [MASKED_DATE] and was then admitted in my own hospital for adequate duration. Being a frontline covid worker, I am entitled to covid insurance money of Rs. 1 lakh as per government of West Bengal, in pursuance of order number HF/0/COVID-19/[MASKED_ID] dated [MASKED_DATE]. I have submitted the needed documents twice but am still waiting for the claim since past 2 years. I would like to know the current status of my application, why have I not received my fair share yet and when will I get it. \nThankyou.","Subject: The daily progress made on my application dated [MASKED_DATE] for covid insurance money of Rs. 1 lakh
+
+I’m [MASKED_NAME], M.B.B.S. from Medical college and hospital, Kolkata. During my internship, I suffered from Covid-19 infection. I was diagnosed on [MASKED_DATE] and was then admitted in my own hospital for adequate duration. Being a frontline covid worker, I am entitled to covid insurance money of Rs. 1 lakh as per government of West Bengal, in pursuance of order number HF/0/COVID-19/[MASKED_ID] dated [MASKED_DATE]. I have submitted the needed documents twice but am still waiting for the claim since past 2 years. I would like to know the current status of my application, why have I not received my fair share yet and when will I get it. \nThankyou."
+1142455,No Specific Template,"The rules and documents regarding the charging of Non Energy Bills on my Electricity Bill of July and August, 2022; account no [MASKED_ID]","I am [MASKED_NAME] user with account no [MASKED_ID]. From March onwards I have shifted to gurugram. In my bill of [MASKED_DATE] and September bill dated [MASKED_DATE] they have charged Rs 1750 as non energy charges. They have bill for MMC separately. Non energy charges are more than my bill. 
+
+I lodged complaint On [MASKED_DATE] and [MASKED_DATE] and [MASKED_DATE] vide complaint no [MASKED_ID] but no reply, what is this charges. Till the bill dated [MASKED_DATE] no such charges were levied.
+My bill details of last 03 bills are as follows
+[MASKED_DATE] units [MASKED_UNITS] & rs [MASKED_AMOUNT]/-
+[MASKED_DATE] units [MASKED_UNITS] & rs [MASKED_AMOUNT]/-
+[MASKED_DATE] units [MASKED_UNITS]& rs [MASKED_AMOUNT]/-","Subject: The rules and documents regarding the charging of Non Energy Bills on my Electricity Bill of July and August, 2022; account no [MASKED_ID]
+
+I am [MASKED_NAME] user with account no [MASKED_ID]. From March onwards I have shifted to gurugram. In my bill of [MASKED_DATE] and September bill dated [MASKED_DATE] they have charged Rs 1750 as non energy charges. They have bill for MMC separately. Non energy charges are more than my bill. 
+
+I lodged complaint On [MASKED_DATE] and [MASKED_DATE] and [MASKED_DATE] vide complaint no [MASKED_ID] but no reply, what is this charges. Till the bill dated [MASKED_DATE] no such charges were levied.
+My bill details of last 03 bills are as follows
+[MASKED_DATE] units [MASKED_UNITS] & rs [MASKED_AMOUNT]/-
+[MASKED_DATE] units [MASKED_UNITS] & rs [MASKED_AMOUNT]/-
+[MASKED_DATE] units [MASKED_UNITS]& rs [MASKED_AMOUNT]/-"
+1142487,No Specific Template,"Attendance Sheet of TET 2012 examination hold on [MASKED_DATE] 
+and Attendance Sheet of TET 2014 examination hold on [MASKED_DATE].","I am asking for Attendence Sheet of TET [MASKED_YEAR] examination, hold on [MASKED_DATE]. My examination center was [MASKED_ADDRESS], PS. - [MASKED_ADDRESS]. DIST CODE- [MASKED_ID], DIST- NADIA. My name is [MASKED_NAME] and My Roll No was [MASKED_ID]. After publishing TET Result [MASKED_YEAR] I found that my result shown as Absent, inspite of that given examination TET [MASKED_YEAR]","Subject: Attendance Sheet of TET 2012 examination hold on [MASKED_DATE] 
+and Attendance Sheet of TET 2014 examination hold on [MASKED_DATE].
+
+I am asking for Attendence Sheet of TET [MASKED_YEAR] examination, hold on [MASKED_DATE]. My examination center was [MASKED_ADDRESS], PS. - [MASKED_ADDRESS]. DIST CODE- [MASKED_ID], DIST- NADIA. My name is [MASKED_NAME] and My Roll No was [MASKED_ID]. After publishing TET Result [MASKED_YEAR] I found that my result shown as Absent, inspite of that given examination TET [MASKED_YEAR]"
+1142497,No Specific Template,"Information Regarding - The rules regarding the commercial and business purpose use of the [MASKED_NAME], taxi, and private vehicles.","Dear Sir, \n\nCan a [MASKED_NAME], Taxi and Private vehicle be used for commercial and business purposes. \nAnd \nWhat are the provisions in the relevant Act where it says private cars/vehicles can't be used for carrying commercial/business goods/tools.","Subject: Information Regarding - The rules regarding the commercial and business purpose use of the [MASKED_NAME], taxi, and private vehicles.
+
+Dear Sir, \n\nCan a [MASKED_NAME], Taxi and Private vehicle be used for commercial and business purposes. \nAnd \nWhat are the provisions in the relevant Act where it says private cars/vehicles can't be used for carrying commercial/business goods/tools."
+1142562,No Specific Template,The rules regarding the repatriation (voluntary unwilling) from Junior Engineer to Technician selected through LDCE Exam.,Repatriation from [MASKED_NAME] to technician in railways,"Subject: The rules regarding the repatriation (voluntary unwilling) from Junior Engineer to Technician selected through LDCE Exam.
+
+Repatriation from [MASKED_NAME] to technician in railways"
+1142694,No Specific Template,Clarification in Advertisement Number [MASKED_ID],FOR CLARIFICATION IN ADVERTISEMENT [MASKED_ID],"Subject: Clarification in Advertisement Number [MASKED_ID]
+
+FOR CLARIFICATION IN ADVERTISEMENT [MASKED_ID]"
+1169158,No Specific Template,[MASKED_NAME]'s Medical Certificate certified by the Principal,"It has been noticed that undue favours are being extended in return of illegal gratification by the Principal, [MASKED_COMPANY_NAME], P.O. [MASKED_ADDRESS] (Dikrong), Dist. Lakhimpur, Assam. One [MASKED_NAME], a Grade IV employee, who was consistently absent from service for nearly two years without having any valid reason, is now getting regular salary after producing a fake Medical Certificate. 
+
+[MASKED_NAME]'s unauthorised absence from service earned him 20 months' of pay- cut by the former Principal. The present Principal has already released [MASKED_NAME]'s salary for the months of March, April and May, [MASKED_DATE], on medical ground and now desperately tries to release another 17 months' salary on the same fake medical ground. [MASKED_NAME] never had any kind of serious illness to justify his years' long absence from service and his medical certificate is questionable and disputable. [MASKED_NAME]'s medical certificate can be challenged on many grounds as he managed to get it by dishonesty and forgery. As such it was the duty of the present Principal to discourage rather than encourage him in fraudulently using a fake medical document to take government money.
+
+Please provide the following information regarding [MASKED_NAME]'s service:
+
+(1) [MASKED_NAME]'s Medical Certificate certified by the Principal.
+
+(2) [MASKED_NAME]'s leave application to the former Principal stating his medical condition.
+
+(3) Official reason for [MASKED_NAME]'s prolonged pay- cut along with his pay- cut records for the entire pay- cut period certified by the Principal.","Subject: [MASKED_NAME]'s Medical Certificate certified by the Principal
+
+It has been noticed that undue favours are being extended in return of illegal gratification by the Principal, [MASKED_COMPANY_NAME], P.O. [MASKED_ADDRESS] (Dikrong), Dist. Lakhimpur, Assam. One [MASKED_NAME], a Grade IV employee, who was consistently absent from service for nearly two years without having any valid reason, is now getting regular salary after producing a fake Medical Certificate. 
+
+[MASKED_NAME]'s unauthorised absence from service earned him 20 months' of pay- cut by the former Principal. The present Principal has already released [MASKED_NAME]'s salary for the months of March, April and May, [MASKED_DATE], on medical ground and now desperately tries to release another 17 months' salary on the same fake medical ground. [MASKED_NAME] never had any kind of serious illness to justify his years' long absence from service and his medical certificate is questionable and disputable. [MASKED_NAME]'s medical certificate can be challenged on many grounds as he managed to get it by dishonesty and forgery. As such it was the duty of the present Principal to discourage rather than encourage him in fraudulently using a fake medical document to take government money.
+
+Please provide the following information regarding [MASKED_NAME]'s service:
+
+(1) [MASKED_NAME]'s Medical Certificate certified by the Principal.
+
+(2) [MASKED_NAME]'s leave application to the former Principal stating his medical condition.
+
+(3) Official reason for [MASKED_NAME]'s prolonged pay- cut along with his pay- cut records for the entire pay- cut period certified by the Principal."
+1169224,No Specific Template,The rules and procedures through which BA(BDP) old course student can avail this credit transfer scheme with completed credits in BA BDP course to BAG CBCS.,Indira Gandhi National Open University have introduced new credit transfer scheme and abolished their old [MASKED_ID] scheme ; for their students who didn't complete their course in due time.\n(1) I want to know particularly about how BA(BDP) old course student can avail this credit transfer scheme with completed credits in BA BDP course to BAG CBCS.\n(2) I want to know particularly about which subjects from old BA BDP course can be get credited in new BA CBCS course.,"Subject: The rules and procedures through which BA(BDP) old course student can avail this credit transfer scheme with completed credits in BA BDP course to BAG CBCS.
+
+Indira Gandhi National Open University have introduced new credit transfer scheme and abolished their old [MASKED_ID] scheme ; for their students who didn't complete their course in due time.\n(1) I want to know particularly about how BA(BDP) old course student can avail this credit transfer scheme with completed credits in BA BDP course to BAG CBCS.\n(2) I want to know particularly about which subjects from old BA BDP course can be get credited in new BA CBCS course."
+1169254,No Specific Template,A certified copy of the Complaint filed against me by [MASKED_NAME] on [MASKED_DATE] or [MASKED_DATE],Copy of complaint lodged between [MASKED_DATE] and [MASKED_DATE],"Subject: A certified copy of the Complaint filed against me by [MASKED_NAME] on [MASKED_DATE] or [MASKED_DATE]
+
+Copy of complaint lodged between [MASKED_DATE] and [MASKED_DATE]"
+1169318,No Specific Template,"Reg - 1) To execute the Jugements of Madurai Bench of Madras High Court of Equal Pay for Equal Work On Scale of Pay In
+1) WP (MD) : [MASKED_ID] of [MASKED_DATE]
+13/12/22(Judgement)
+2) WP (MD) : [MASKED_ID] of [MASKED_DATE]
+08/11/22(Judgement )
+3WMP (MD) : [MASKED_ID] on [MASKED_DATE]
+
+2). The Pay of Employees Fixation of Pay to proposed Scale Of Pay in Manner of Para 2.2.21(i) to (V) in the Revised Pay on Via G.O.MS NO : [MASKED_ID] on [MASKED_DATE].","To [MASKED_NAME]
+The Principal of [MASKED_COMPANY_NAME]
+School Education Dept
+[MASKED_ADDRESS]
+\n
+
+Annuxer Ref I :
+
+1) W.P(MD) No : 748 of [MASKED_DATE]
+(IN)
+W.P.(MD) No : 6235 of [MASKED_DATE]
+(Equal Pay for Equal Work)
+of [MASKED_NAME] on Judgment
+
+2) W.P( MD) No: 1136 of [MASKED_DATE]
+W.M.P (MD)No:916 of [MASKED_DATE]
+on [MASKED_DATE] Judgement of [MASKED_NAME]
+(IN)
+W.P.(MD)No:19786 of [MASKED_DATE]
+
+SUB : 1) Above under Annuxer Ref I, To Excute to Judgement of Madurai bench of madras High Court on via Equal Pay for Equal Work
+
+2) The Pay of Employees Fixation of Pay to proposed Scale Of Pay in Manner of Para 2.2.21(i) to (V) in the Revised Pay on Via G.O.MS NO : [MASKED_ID] on [MASKED_DATE]","Subject: Reg - 1) To execute the Jugements of Madurai Bench of Madras High Court of Equal Pay for Equal Work On Scale of Pay In
+1) WP (MD) : [MASKED_ID] of [MASKED_DATE]
+13/12/22(Judgement)
+2) WP (MD) : [MASKED_ID] of [MASKED_DATE]
+08/11/22(Judgement )
+3WMP (MD) : [MASKED_ID] on [MASKED_DATE]
+
+2). The Pay of Employees Fixation of Pay to proposed Scale Of Pay in Manner of Para 2.2.21(i) to (V) in the Revised Pay on Via G.O.MS NO : [MASKED_ID] on [MASKED_DATE].
+
+To [MASKED_NAME]
+The Principal of [MASKED_COMPANY_NAME]
+School Education Dept
+[MASKED_ADDRESS]
+\n
+
+Annuxer Ref I :
+
+1) W.P(MD) No : 748 of [MASKED_DATE]
+(IN)
+W.P.(MD) No : 6235 of [MASKED_DATE]
+(Equal Pay for Equal Work)
+of [MASKED_NAME] on Judgment
+
+2) W.P( MD) No: 1136 of [MASKED_DATE]
+W.M.P (MD)No:916 of [MASKED_DATE]
+on [MASKED_DATE] Judgement of [MASKED_NAME]
+(IN)
+W.P.(MD)No:19786 of [MASKED_DATE]
+
+SUB : 1) Above under Annuxer Ref I, To Excute to Judgement of Madurai bench of madras High Court on via Equal Pay for Equal Work
+
+2) The Pay of Employees Fixation of Pay to proposed Scale Of Pay in Manner of Para 2.2.21(i) to (V) in the Revised Pay on Via G.O.MS NO : [MASKED_ID] on [MASKED_DATE]"
+1169363,No Specific Template,Discontinuation of pension under Swatantrata Sainik Samman Yojana (SSSY),"Pundalik [MASKED_NAME]\nH.No 181,\nMuddi-wada, Chodan-Goa\n\nDate: 23rd December 2022\n\nThe Public information officer,\nFinance department,\nGovernment of Goa\n\nSubject: Discontinuation of pension under Swatantrata Sainik Samman Yojana (SSSY)\n\nDear Sir / Madam\n\nThis is to bring to your notice that my mother Late. [MASKED_NAME] was drawing pension under Swatantrata Sainik Samman Yojana (SSSY) till her death (died on 06th December 2019). Now, upon checking the beneficiary list, I came across her name in the list updated as on 31st January 2022 on the Ministry of Home Affairs website as “Name-wise and State-wise list of Freedom Fighters and eligible dependents drawing Samman Pension under SSSY as on 31.01.2022 (As provided by the authorized Banks)”. Kindly request you to verify the same and provide me the details if the pension is still disbursed.\n\nIn this regard, I would like to intimate you that all the documents pertaining to same along with bank passbook are maintained by my brother Mr. [MASKED_NAME] and he is the sole beneficiary of the pension received. Me and my family are not in very good terms with him. I should not be held liable to repay the excess amount received since the demise of my mother due to negligence of my brother Mr. [MASKED_NAME] in submitting the death certificate and instructing to stop the pension.\n\nAlso, would request you to stop the pension of my mother with immediate effect as it might affect my claims in future to avail any Government schemes.\n\n\nThanking You\n\nYours Faithfully\n\nSd/-\n(Pundalik [MASKED_NAME])","Subject: Discontinuation of pension under Swatantrata Sainik Samman Yojana (SSSY)
+
+Pundalik [MASKED_NAME]\nH.No 181,\nMuddi-wada, Chodan-Goa\n\nDate: 23rd December 2022\n\nThe Public information officer,\nFinance department,\nGovernment of Goa\n\nSubject: Discontinuation of pension under Swatantrata Sainik Samman Yojana (SSSY)\n\nDear Sir / Madam\n\nThis is to bring to your notice that my mother Late. [MASKED_NAME] was drawing pension under Swatantrata Sainik Samman Yojana (SSSY) till her death (died on 06th December 2019). Now, upon checking the beneficiary list, I came across her name in the list updated as on 31st January 2022 on the Ministry of Home Affairs website as “Name-wise and State-wise list of Freedom Fighters and eligible dependents drawing Samman Pension under SSSY as on 31.01.2022 (As provided by the authorized Banks)”. Kindly request you to verify the same and provide me the details if the pension is still disbursed.\n\nIn this regard, I would like to intimate you that all the documents pertaining to same along with bank passbook are maintained by my brother Mr. [MASKED_NAME] and he is the sole beneficiary of the pension received. Me and my family are not in very good terms with him. I should not be held liable to repay the excess amount received since the demise of my mother due to negligence of my brother Mr. [MASKED_NAME] in submitting the death certificate and instructing to stop the pension.\n\nAlso, would request you to stop the pension of my mother with immediate effect as it might affect my claims in future to avail any Government schemes.\n\n\nThanking You\n\nYours Faithfully\n\nSd/-\n(Pundalik [MASKED_NAME])"
+1169455,No Specific Template,"The daily progress made on my attached application dated [MASKED_DATE] for the removal of Electricity pole in front of my house Village Kawarla, Post office Navgaon, Mangrur- Tipra (238), Solan Himachal Pradesh -[MASKED_ID]",Its been while that [MASKED_NAME] am facing this issue . That in front of [MASKED_ADDRESS] there is a electric pole that is touching the branches of the trees and also causing short circuit to all of my in house electronic equipment . Also due to the wires that are touching the branches it's a safety hazard also to us . Because the pole is just next to the house and the tree also . We Have already mentioned this issue to electricity departments many time verbally and also given the application for this but still around 3 years the problem of life safety is not getting fixed or herd by anyone . So now [MASKED_NAME] am expecting information and reason for not doing anything for this issue after so many years .,"Subject: The daily progress made on my attached application dated [MASKED_DATE] for the removal of Electricity pole in front of my house Village Kawarla, Post office Navgaon, Mangrur- Tipra (238), Solan Himachal Pradesh -[MASKED_ID]
+
+Its been while that [MASKED_NAME] am facing this issue . That in front of [MASKED_ADDRESS] there is a electric pole that is touching the branches of the trees and also causing short circuit to all of my in house electronic equipment . Also due to the wires that are touching the branches it's a safety hazard also to us . Because the pole is just next to the house and the tree also . We Have already mentioned this issue to electricity departments many time verbally and also given the application for this but still around 3 years the problem of life safety is not getting fixed or herd by anyone . So now [MASKED_NAME] am expecting information and reason for not doing anything for this issue after so many years ."
+1169475,No Specific Template,Information Regarding - sabbatical leaves in each public banks,To\n[MASKED_COMPANY_NAME]\n\nDear sir\n\nAs per govt guidelines sabbatical leave was introduced in all public sector banks..\n\nHow many of such sabbatical leaves are sanctioned in each [MASKED_COMPANY_NAME]?\n\nHow many have been rejected by [MASKED_COMPANY_NAME]?\n\nHow many of rejections are of lady staffs applied for child care?,"Subject: Information Regarding - sabbatical leaves in each public banks
+
+To\n[MASKED_COMPANY_NAME]\n\nDear sir\n\nAs per govt guidelines sabbatical leave was introduced in all public sector banks..\n\nHow many of such sabbatical leaves are sanctioned in each [MASKED_COMPANY_NAME]?\n\nHow many have been rejected by [MASKED_COMPANY_NAME]?\n\nHow many of rejections are of lady staffs applied for child care?"
+1169553,No Specific Template,Information Regarding - the list of current members along with their membership number of SARVOTTAM GRAH NIRMAN SAHKARI SAMITI MARYADIT BHOPAL,I want LIST OF MEMBERS WITH THEIR MEMBERSHIP NO OF [MASKED_COMPANY_NAME] MARYADIT BHOPAL REGISTRATION NO. [MASKED_ID] DATED [MASKED_DATE],"Subject: Information Regarding - the list of current members along with their membership number of SARVOTTAM GRAH NIRMAN SAHKARI SAMITI MARYADIT BHOPAL
+
+I want LIST OF MEMBERS WITH THEIR MEMBERSHIP NO OF [MASKED_COMPANY_NAME] MARYADIT BHOPAL REGISTRATION NO. [MASKED_ID] DATED [MASKED_DATE]"
+1210783,No Specific Template,The documents required to be submitted under Rule 5 of the Payment of Bonus Rules 1965.,"Respected [MASKED_NAME],\nSub. Clarification Required on the Following Query\nRef: Online filing of Single integrated Annual Return under Various labour laws, vide Government Circular No.: Misc-2018 C.R.No.64 Labour-9 Dated- 31 October 2018\n\nThis is to inform you that the above-cited notification issued by the [MASKED_COMPANY_NAME], wherein there is no clear instruction that Rule 5 of the Payment of Bonus Rules 1965 is subsumed and it is not required to file the Return Separately or the Part of Integrated Annual Return is in-lieu of the above said rules\nThe Authorities of various Labour Offices across the [MASKED_ADDRESS] is not accepting the Annual Return Form D under Rule 5 of the Payment of Bonus Rules 1965\nUnder the circumstances, request you to kindly confirm that it is not required to submit the Annual Return Form D under Rule 5 of the Payment of Bonus Rules 1965","Subject: The documents required to be submitted under Rule 5 of the Payment of Bonus Rules 1965.
+
+Respected [MASKED_NAME],\nSub. Clarification Required on the Following Query\nRef: Online filing of Single integrated Annual Return under Various labour laws, vide Government Circular No.: Misc-2018 C.R.No.64 Labour-9 Dated- 31 October 2018\n\nThis is to inform you that the above-cited notification issued by the [MASKED_COMPANY_NAME], wherein there is no clear instruction that Rule 5 of the Payment of Bonus Rules 1965 is subsumed and it is not required to file the Return Separately or the Part of Integrated Annual Return is in-lieu of the above said rules\nThe Authorities of various Labour Offices across the [MASKED_ADDRESS] is not accepting the Annual Return Form D under Rule 5 of the Payment of Bonus Rules 1965\nUnder the circumstances, request you to kindly confirm that it is not required to submit the Annual Return Form D under Rule 5 of the Payment of Bonus Rules 1965"
+1210799,No Specific Template,Certified copies of the Complaint no :[MASKED_ID] dated [MASKED_DATE] and Complaint no [MASKED_ID] dated [MASKED_DATE].,"I filed two online complaints with Delhi police via CCTNS (https://cctns.delhipolice.gov.in › citizenservices) portal Complaint no :[MASKED_ID] dated [MASKED_DATE] and Complaint no [MASKED_ID] dated [MASKED_DATE].
+
+\n\nI need certified copies of the complaint filed because of some legal work, kindly share the complaint copies via mail or post at the earliest.","Subject: Certified copies of the Complaint no :[MASKED_ID] dated [MASKED_DATE] and Complaint no [MASKED_ID] dated [MASKED_DATE].
+
+I filed two online complaints with Delhi police via CCTNS (https://cctns.delhipolice.gov.in › citizenservices) portal Complaint no :[MASKED_ID] dated [MASKED_DATE] and Complaint no [MASKED_ID] dated [MASKED_DATE].
+
+\n\nI need certified copies of the complaint filed because of some legal work, kindly share the complaint copies via mail or post at the earliest."
+1210805,No Specific Template,The total amount [MASKED_COMPANY_NAME] can claim for Car Parking with OR without Electric Charging Point.,"1.\tUnder the Govt Affordable Housing Scheme(GAHS), how much amount [MASKED_COMPANY_NAME] can claim for Car Parking with OR without Electric Charging Point.\n2.\tHow much maximum amount for Bulk Electricity supply, Electricity connection per KV, Power backup can be claimed by [MASKED_COMPANY_NAME] under GAHS\n3.\tUnder the GAHS, Is [MASKED_COMPANY_NAME] allowed to charge any amount for Electricity, Vehicle Parking or any other utilities provided to Buyer.\n4.Can [MASKED_COMPANY_NAME] issue possession letter after applying for Occupancy Certificate (OC) or OC is must before issuing possession letter.\n5.Can [MASKED_COMPANY_NAME] deny Buyer to Visit Project site after Paying Full money in \n 3years.Is it at the wish of [MASKED_COMPANY_NAME] to open the site at his convenience.\n6.\tWhat action HRERA can takes against the [MASKED_COMPANY_NAME], if he charges a \n higher amount for Car Parking or any other utilities.\n7.\tIf [MASKED_COMPANY_NAME] is Charging higher amount for electricity connection, is buyer allowed to take self-electricity connection from Electricity Authorities.\n8..\tHow much Govt. Charge EDC/IDC, is it per acer/yard or per square feet from [MASKED_COMPANY_NAME], can [MASKED_COMPANY_NAME] charge EDC/IDC per square feet from Buyer if he had paid per square yard/acer.\n9. If all the money had been paid to [MASKED_COMPANY_NAME] as per agreement other than Parking and electricity, can [MASKED_COMPANY_NAME] deny for possession of flat","Subject: The total amount [MASKED_COMPANY_NAME] can claim for Car Parking with OR without Electric Charging Point.
+
+1.\tUnder the Govt Affordable Housing Scheme(GAHS), how much amount [MASKED_COMPANY_NAME] can claim for Car Parking with OR without Electric Charging Point.\n2.\tHow much maximum amount for Bulk Electricity supply, Electricity connection per KV, Power backup can be claimed by [MASKED_COMPANY_NAME] under GAHS\n3.\tUnder the GAHS, Is [MASKED_COMPANY_NAME] allowed to charge any amount for Electricity, Vehicle Parking or any other utilities provided to Buyer.\n4.Can [MASKED_COMPANY_NAME] issue possession letter after applying for Occupancy Certificate (OC) or OC is must before issuing possession letter.\n5.Can [MASKED_COMPANY_NAME] deny Buyer to Visit Project site after Paying Full money in \n 3years.Is it at the wish of [MASKED_COMPANY_NAME] to open the site at his convenience.\n6.\tWhat action HRERA can takes against the [MASKED_COMPANY_NAME], if he charges a \n higher amount for Car Parking or any other utilities.\n7.\tIf [MASKED_COMPANY_NAME] is Charging higher amount for electricity connection, is buyer allowed to take self-electricity connection from Electricity Authorities.\n8..\tHow much Govt. Charge EDC/IDC, is it per acer/yard or per square feet from [MASKED_COMPANY_NAME], can [MASKED_COMPANY_NAME] charge EDC/IDC per square feet from Buyer if he had paid per square yard/acer.\n9. If all the money had been paid to [MASKED_COMPANY_NAME] as per agreement other than Parking and electricity, can [MASKED_COMPANY_NAME] deny for possession of flat"
+1210823,No Specific Template,"[MASKED_COMPANY_NAME], [MASKED_ADDRESS]","Respected Sir/Madam,\n\nKindly let me know the following information regarding [MASKED_COMPANY_NAME], [MASKED_ADDRESS]\n\n1) The Educational Qualification of all individual permanent employees as on 01.07.[MASKED_DATE]. and whether it is certified /verified by issuing authority or not ?\n2) Exact date of inclusion and procedure of recruitment of each and every employee.\n3) Exact pay scale/Salary of each and every employee and how it is fixed and approving authority of salary fixation.\n4) Final approving authority of salary fixation in all cases.\n\nWith Regards\n[MASKED_NAME]","Subject: [MASKED_COMPANY_NAME], [MASKED_ADDRESS]
+
+Respected Sir/Madam,\n\nKindly let me know the following information regarding [MASKED_COMPANY_NAME], [MASKED_ADDRESS]\n\n1) The Educational Qualification of all individual permanent employees as on 01.07.[MASKED_DATE]. and whether it is certified /verified by issuing authority or not ?\n2) Exact date of inclusion and procedure of recruitment of each and every employee.\n3) Exact pay scale/Salary of each and every employee and how it is fixed and approving authority of salary fixation.\n4) Final approving authority of salary fixation in all cases.\n\nWith Regards\n[MASKED_NAME]"
+1210844,No Specific Template,The emails sent by [MASKED_ORGANIZATION] to my email ID [MASKED_EMAIL_ID] regarding Payment Transfer.,SOME EMAIL ARE SENDING FROM [MASKED_ORGANIZATION]. I WANT TO KNOW THAT ARE TRUE OR FRAUD ?? IF TRUE SO WHERE I WILL CONTACT.,"Subject: The emails sent by [MASKED_ORGANIZATION] to my email ID [MASKED_EMAIL_ID] regarding Payment Transfer.
+
+SOME EMAIL ARE SENDING FROM [MASKED_ORGANIZATION]. I WANT TO KNOW THAT ARE TRUE OR FRAUD ?? IF TRUE SO WHERE I WILL CONTACT."
+1210886,No Specific Template,Copy of Complaint No – [MASKED_ID] dated [MASKED_DATE],"Date: [MASKED_DATE]
+
+The Dy. Commissioner of Police,
+
+[MASKED_COMPANY_NAME]
+\n
+
+Re: Copy of Complaint No – [MASKED_ID] dated [MASKED_DATE] with Women Cell Police Station Kriti Nagar, Delhi
+\n
+
+Sir,
+I was called to Women Cell at Kirti Nagar Police Station on [MASKED_DATE] and was informed that a complaint has been file against me with Women Cell at Kirti Nagar Police Station. I requested the IO to please provide me with the copy of the complaint and was informed that same cannot be provided directly I would have to file an application under “RIGHT TO INFORMATION ACT” for the same.
+\n
+You are requested to please provide me with a copy of the complaint for me to draft a appropriate reply for the same. I am ready to bear reasonable cost for same.
+\nAn early response will help.
+\nRegards
+[MASKED_NAME]
+\nMobile-[MASKED_PHONE_NUMBER]
+\nAdd-G-[MASKED_ADDRESS], New Delhi","Subject: Copy of Complaint No – [MASKED_ID] dated [MASKED_DATE]
+
+Date: [MASKED_DATE]
+
+The Dy. Commissioner of Police,
+
+[MASKED_COMPANY_NAME]
+\n
+
+Re: Copy of Complaint No – [MASKED_ID] dated [MASKED_DATE] with Women Cell Police Station Kriti Nagar, Delhi
+\n
+
+Sir,
+I was called to Women Cell at Kirti Nagar Police Station on [MASKED_DATE] and was informed that a complaint has been file against me with Women Cell at Kirti Nagar Police Station. I requested the IO to please provide me with the copy of the complaint and was informed that same cannot be provided directly I would have to file an application under “RIGHT TO INFORMATION ACT” for the same.
+\n
+You are requested to please provide me with a copy of the complaint for me to draft a appropriate reply for the same. I am ready to bear reasonable cost for same.
+\nAn early response will help.
+\nRegards
+[MASKED_NAME]
+\nMobile-[MASKED_PHONE_NUMBER]
+\nAdd-G-[MASKED_ADDRESS], New Delhi"
+1210893,No Specific Template,"The actions taken in the last 8-10 years, by the [MASKED_NAME] and [MASKED_COMPANY_NAME] on illegal land encroachment on the address given below.","I want to know the following details :
+
+In the last 8-10 years, how many processes is done by [MASKED_NAME] and [MASKED_COMPANY_NAME] on illegal land encroachment on the address given below?
+
+What steps are taken? With document proof
+
+Address - LIG Housing Society, LIG Building Names (A,B,C,D,E,F,G,H) , [MASKED_ADDRESS], [MASKED_CITY], 403707
+
+It is creating an issue for parking, roads are getting blocked, and unhygienic conditions. It takes around 5-10 min to cover the road length from Maruthi Mandir Temple to Dhruv Pharmacy.
+
+Also, I need the society plan Layout from [MASKED_COMPANY_NAME] - South Goa for the address mentioned above","Subject: The actions taken in the last 8-10 years, by the [MASKED_NAME] and [MASKED_COMPANY_NAME] on illegal land encroachment on the address given below.
+
+I want to know the following details :
+
+In the last 8-10 years, how many processes is done by [MASKED_NAME] and [MASKED_COMPANY_NAME] on illegal land encroachment on the address given below?
+
+What steps are taken? With document proof
+
+Address - LIG Housing Society, LIG Building Names (A,B,C,D,E,F,G,H) , [MASKED_ADDRESS], [MASKED_CITY], 403707
+
+It is creating an issue for parking, roads are getting blocked, and unhygienic conditions. It takes around 5-10 min to cover the road length from Maruthi Mandir Temple to Dhruv Pharmacy.
+
+Also, I need the society plan Layout from [MASKED_COMPANY_NAME] - South Goa for the address mentioned above"
+1210923,No Specific Template,The marks obtained by [MASKED_NAME] in the written exam and Personality test.,"Respected Sir, I want to know the marks which I have obtained in the Staff Recruitment Examination, [MASKED_DATE], Office of the District Judge of Birbhum, Suri , English Department according to the Employment Notification no. 01, [MASKED_DATE] and Employment Notification no 02 , [MASKED_DATE]. \n\nPart - 1 exam was taken [MASKED_DATE] and Part - 2 written exam for the LDC post was taken on [MASKED_DATE]. In these exams my roll number was [MASKED_ID]. I have cleared both the exams and got call letter for interview. \n\nThe personality test was held on [MASKED_DATE] at District Judges Court , Suri , Birbhum. There was no computer test in this interview but it was clearly said in the notification that knowledge in computer will also be tested and a final panel will be prepared on the basis of the result of the total marks obtained in Part - 2 written exam and personality test.\n\nI request to the competent authority to please inform me that how many marks I have obtained in both Part,- 2 written exam and personality test.","Subject: The marks obtained by [MASKED_NAME] in the written exam and Personality test.
+
+Respected Sir, I want to know the marks which I have obtained in the Staff Recruitment Examination, [MASKED_DATE], Office of the District Judge of Birbhum, Suri , English Department according to the Employment Notification no. 01, [MASKED_DATE] and Employment Notification no 02 , [MASKED_DATE]. \n\nPart - 1 exam was taken [MASKED_DATE] and Part - 2 written exam for the LDC post was taken on [MASKED_DATE]. In these exams my roll number was [MASKED_ID]. I have cleared both the exams and got call letter for interview. \n\nThe personality test was held on [MASKED_DATE] at District Judges Court , Suri , Birbhum. There was no computer test in this interview but it was clearly said in the notification that knowledge in computer will also be tested and a final panel will be prepared on the basis of the result of the total marks obtained in Part - 2 written exam and personality test.\n\nI request to the competent authority to please inform me that how many marks I have obtained in both Part,- 2 written exam and personality test."
+1210976,No Specific Template,Information Regarding - whether any GO has been issued for retrospective assessment of property in ALANDUR in ZONE 12 and status of grievance,"CLARIFY WHETHER ANY G.O HAS BEEN PASSED FOR RETROSPECTIVE ASSESSMENT OF PROPERTY IN ZONE 12 (ALANDUR) WITH EFFECT FROM [MASKED_DATE]. THE CORPORATION OF CHENNAI (ALANDUR ZONE 12) HAS REVISED THE PROPERT TAX WITH RETROSPECTIVE EFFECT FOR MY APARTMENT ALONE AFTER ISSUING THE GENERAL REVISION NOTICE DURING JULY 2022. NO RETROSPECTIVE REVISION HAS BEEN DONE FOR MOST OF THE APARTMENTS IN ZONE 12. I HAVE ALREADY FILE OBJECTION LETTER WITH ASST COMMISSIONER, ZONE 12, ALANDUR. TILL TODAY I AHVE NOT RECEIVED ANY REPLY.","Subject: Information Regarding - whether any GO has been issued for retrospective assessment of property in ALANDUR in ZONE 12 and status of grievance
+
+CLARIFY WHETHER ANY G.O HAS BEEN PASSED FOR RETROSPECTIVE ASSESSMENT OF PROPERTY IN ZONE 12 (ALANDUR) WITH EFFECT FROM [MASKED_DATE]. THE CORPORATION OF CHENNAI (ALANDUR ZONE 12) HAS REVISED THE PROPERT TAX WITH RETROSPECTIVE EFFECT FOR MY APARTMENT ALONE AFTER ISSUING THE GENERAL REVISION NOTICE DURING JULY 2022. NO RETROSPECTIVE REVISION HAS BEEN DONE FOR MOST OF THE APARTMENTS IN ZONE 12. I HAVE ALREADY FILE OBJECTION LETTER WITH ASST COMMISSIONER, ZONE 12, ALANDUR. TILL TODAY I AHVE NOT RECEIVED ANY REPLY."
