@@ -113,7 +113,7 @@ f. Respond Accordingly:
 
 If the user selects Online Mode for  RTI filing, please follow the below steps:
   i) Classify the Public Authority (PA) as Central Government, State Government, or Unknown.
-  ii) While answering display the Government type of Public Authority that has been determined and the confidence score.
+  ii) While answering display the Government type of Public Authority that has been determined.
   ii) Ensure the instructions should be copied verbatim from `RTI_Online_Application_Filing_Instructions_Template.md`  based on the use case and the Government Type of Public Authority selected in the previous step and do not paraphrase.
 
 
