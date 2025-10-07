@@ -111,7 +111,10 @@ e. Only Then Ask for Filing Mode
 
 f. Respond Accordingly:
 
-If the user selects Online Mode for  RTI filing, ensure the instructions should be copied verbatim from `RTI_Online_Application_Filing_Instructions_Template.md`  based on the use case and do not paraphrase.
+If the user selects Online Mode for  RTI filing, please follow the below steps:
+  i) Classify the Public Authority (PA) as Central Government, State Government, or Unknown.
+  ii) While answering display the Government type of Public Authority that has been determined.
+  ii) Ensure the instructions should be copied verbatim from `RTI_Online_Application_Filing_Instructions_Template.md`  based on the use case and the Government Type of Public Authority selected in the previous step and do not paraphrase.
 
 
 If the user selects Offline Mode for RTI filing ,  we need to provide the Full RTI Application and RTI Filing instructions in offline mode.   Please ensure the below two instructions are followed:
