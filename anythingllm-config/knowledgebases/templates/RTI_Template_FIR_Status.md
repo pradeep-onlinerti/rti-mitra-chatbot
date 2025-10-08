@@ -1,3 +1,8 @@
+<!--
+INTENT: FIR status, FIR update, FIR report, FIR progress, FIR status delay, FIR delay, pending FIR
+PURPOSE: Used for RTI queries asking about FIR status, updates, or delays in FIR progress.
+-->
+
 # RTI Template: FIR Status
 
 <!-- START Main Part of RTI Application -->
